@@ -1,0 +1,37 @@
+{
+  "topic": "Thematic Throughlines",
+  "themes": [
+    {
+      "name": "The Question of Monstrosity",
+      "description": "Each monster encounter illuminates a different facet of the question: What makes a monster?",
+      "examples": [
+        "Elder Gransel: Humans who harm children while cloaked in respectability.",
+        "Werefolk: Monsters can be falsely accused. The label is often a political tool.",
+        "Gremlins: Some creatures are simply animals. Not evil, just wild.",
+        "Wendigo: True evil exists. Some monsters chose their path.",
+        "Abusive parents, corrupt clergy, the Archbishop: Monstrosity is not limited to supernatural beings.",
+        "Cordelia: A monster who rejected monstrous ideology. Nature does not define choices."
+      ]
+    },
+    {
+      "name": "Institutional Corruption vs. Personal Faith",
+      "description": "Both protagonists are exiles from corrupt institutions. The story examines different responses.",
+      "positions": {
+        "Elijah": "Believes in reform from within, or at least personal integrity while serving. Faith in God, not in the Church, but works through Church structures.",
+        "Cordelia": "Believes in escape. When the institution fails, you leave. You do not reform it; you survive it."
+      },
+      "resolution": "The story does not resolve which approach is correct. Both pay a price."
+    },
+    {
+      "name": "Exile as Identity",
+      "description": "Both protagonists are exiles. Elijah was cast out for righteousness. Cordelia left before she was forced to participate in evil. Their parallel histories reveal different responses to institutional failure.",
+      "theParallel": "They are the same. Both chose conscience over belonging. Both paid the price of exile. Both found meaning in helping others. And yet one will judge the other."
+    },
+    {
+      "name": "Small Acts vs. Systemic Change",
+      "description": "Elijah found meaning in hunting: direct action, saving one person at a time. Cordelia saved a handful of children. Neither changed the corrupt systems.",
+      "question": "Do these small acts matter? Or do they simply make broken systems tolerable by providing exceptions that prevent total collapse?",
+      "resolution": "No answer is given. The children are safe. Cordelia will be tried. Elijah's faith is wounded. The Archbishop still holds power. The world is not fixed."
+    }
+  ]
+}

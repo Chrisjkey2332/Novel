@@ -1,0 +1,19 @@
+{
+  "name": "Elder Gransel",
+  "role": "Minor Antagonist",
+  "description": "The village elder who orchestrated the bloodletting rituals that harmed the children. Summoned Elijah to hunt the 'demon in the woods' to cover his crimes.",
+  "backstory": "A respected figure in the village who practiced illegal bloodletting on children under the guise of traditional healing. When children began to die or disappear (taken by Cordelia to save them), he blamed a 'demon in the woods.'",
+  "motivation": "Self-preservation. Maintaining his authority and covering his crimes.",
+  "arc": "Exposed during the village trial. His practiced grief and manipulation reveal how authority figures use their position to harm the vulnerable while appearing righteous. Executed by Elijah. His downfall foreshadows the corruption Elijah will face at the Holy See.",
+  "traits": [
+    "practiced deceiver",
+    "manipulative grief",
+    "respected facade hiding cruelty",
+    "first human 'monster' of the story"
+  ],
+  "relationships": {
+    "The Children": "His victims.",
+    "Cordelia": "Blamed her to cover his crimes.",
+    "Elijah": "Summoned him as a hunter, not expecting the investigation to turn inward."
+  }
+}

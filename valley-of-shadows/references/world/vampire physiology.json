@@ -1,0 +1,25 @@
+{
+  "topic": "Vampire Physiology",
+  "description": "The physical rules governing Cordelia's kind, including the effects of the binding ritual.",
+  "rules": "Rules must be applied consistently throughout, particularly after the unbinding in Chapter 21 where all powers should return fully.",
+  "details": {
+    "Normal State": {
+      "Heartbeat": "None",
+      "Senses": "Enhanced",
+      "Abilities": "Shadow-stepping, mist manipulation, predatory speed and strength",
+      "Vulnerabilities": "Holy water, silver, crucifix proximity"
+    },
+    "Under Binding": {
+      "Heartbeat": "Forced (artificial, uncomfortable)",
+      "Senses": "Diminished to near-human levels",
+      "Abilities": "Suppressed entirely",
+      "Physical State": "Vulnerable, weakened, cold affects her",
+      "Duration": "Chapters 2 through 21"
+    },
+    "After Unbinding": {
+      "Trigger": "Elijah removes the crucifix to save her life during wendigo fight (Ch. 21)",
+      "Effect": "All powers return fully",
+      "Implication": "She willingly submits to rebinding for the tribunal (implied Ch. 26, needs explicit address)"
+    }
+  }
+}

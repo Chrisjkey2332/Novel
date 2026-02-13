@@ -1,0 +1,13 @@
+{
+  "topic": "Authority and Law",
+  "description": "The legal and political framework governing the story's world, including the relationship between Crown and Church.",
+  "rules": "The relationship between 'Her Majesty the Queen' and the Holy See as co-equal sources of authority needs clarification. Does the Crown outrank the Church? Are they peers? This matters for the tribunal's legitimacy and Elijah's authority to execute.",
+  "details": {
+    "Crown Authority": "Referenced as 'Her Majesty the Queen.' Grants hunters legal authority.",
+    "Church Authority": "The Holy See wields both religious and political power. Conducts tribunals.",
+    "Hunter Authority": "Elijah executes Elder Gransel by authority of 'Her Majesty the Queen, the Holy See, and God Almighty.' This judicial authority needs earlier establishment.",
+    "The Compact": "Treaty between human and vampire societies. Violations tried before Holy See tribunal.",
+    "Historical Setting": "Year 826 is referenced. The use of specific dates with a functioning Holy See suggests a secondary-world setting. Needs consistency: either fully fictional calendar or historically grounded."
+  },
+  "qualityNote": "NEEDS WORK: The Crown-Church relationship is unclear and affects the tribunal's legitimacy. Hunter legal authority should be established before it is exercised in Chapter 6."
+}

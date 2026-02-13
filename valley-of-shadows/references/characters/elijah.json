@@ -1,0 +1,24 @@
+{
+  "name": "Elijah",
+  "role": "Deuteragonist",
+  "description": "A former Bishop turned monster hunter. Principled to a fault, he believes in law even when its enforcers are corrupt. His strength is not physical but moral: he has been beaten, humiliated, exiled, and still he prays. We never see inside his head; everything about him is observed from Cordelia's perspective.",
+  "backstory": "Served the Church faithfully for years, rising through merit and genuine devotion. Watched corruption seep in: a compromise here, a blind eye there, wolves in sheep's clothing filling positions of power. When he confronted the Archbishop directly about the vapid nature of the new leadership, he was exiled.\n\nHis punishment was reassignment as a hunter, work considered beneath a man of his station, dangerous and isolated. But in the field, away from politics, he discovered something the marble halls never offered: direct action against evil. No committees. No compromises. He came to realize his punishment had placed him exactly where he was needed. The corrupt Church accidentally gave him his true ministry.",
+  "motivation": "To serve God through direct action, even when the institution that represents God has been corrupted. Believes that if he abandons duty when it costs him, he has no right to invoke it when it protects others.",
+  "arc": "The journey with Cordelia tests his faith, not in God, but in institutions. Each monster encounter challenges his certainties. The werefolk were framed. The gremlins are just animals. The wendigo is true evil. At the Holy See, the men who exiled him reveal themselves as petty tyrants. His breaking point comes the night before the trial, when Cordelia's words finally crack his mask. The story does not tell us if he ever recovers.",
+  "traits": [
+    "principled to a fault",
+    "moral strength over physical",
+    "maintains composure under immense pressure",
+    "uses biblical language naturally",
+    "prays genuinely and frequently",
+    "cunning hunter despite being a man of faith",
+    "strong and dignified throughout",
+    "his doubt is about people and institutions, never about God"
+  ],
+  "relationships": {
+    "Cordelia": "His prisoner who becomes someone he speaks for at trial. Recognizes her as a kindred spirit, both exiles of conscience.",
+    "The Archbishop": "The man who cast him out for speaking truth to power. The shadow that hangs over everything.",
+    "The Children": "Takes responsibility for their welfare. They fear him initially but Thomas breaks through first via the rook scene.",
+    "God": "Unwavering faith. 'I believe in God. That has never wavered. The Church is men, flawed, fallen.'"
+  }
+}

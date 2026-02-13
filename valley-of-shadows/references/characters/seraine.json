@@ -1,0 +1,13 @@
+{
+  "name": "Seraine",
+  "role": "Minor Character",
+  "description": "Cordelia's maker. Appears in Chapter 28 with no prior mention in the manuscript.",
+  "backstory": "The vampire who turned Cordelia. The nature of their relationship is not fully established in the current draft.",
+  "motivation": "Unknown in current draft.",
+  "arc": "Appears at the Holy See in Chapter 28. Her arrival is currently too abrupt and needs foreshadowing in earlier chapters.",
+  "traits": [],
+  "relationships": {
+    "Cordelia": "Her maker. A three-hundred-year relationship that is conspicuously absent from Cordelia's internal monologue until Chapter 28."
+  },
+  "qualityNote": "NEEDS WORK: Seraine appears in Chapter 28 with no prior mention. Brief references (memories, comparisons, moments where Cordelia thinks of her turning or her maker) should be added in at least two earlier chapters to prepare the reader."
+}

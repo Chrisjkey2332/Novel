@@ -1,0 +1,20 @@
+{
+  "name": "The Archbishop",
+  "role": "Antagonist",
+  "description": "The corrupt Church leader who exiled Elijah and who serves as judge at Cordelia's trial. One of the wolves in sheep's clothing that Elijah identified years ago. He never appears until the final scene, but his shadow hangs over everything.",
+  "backstory": "Rose through the Church through political maneuvering and compliance with corruption. When Elijah confronted him about the vapid nature of the new leadership, the Archbishop had him exiled to the dangerous, degrading work of monster hunting.",
+  "motivation": "To punish Elijah for daring to speak truth to power. The trial of Cordelia is merely the vehicle. Every verdict will be a message: You are nothing. Your righteousness means nothing.",
+  "arc": "Absent until the final chapter. His appearance as judge is the story's final revelation: the trial was never about justice for Cordelia. It was always about destroying Elijah.",
+  "traits": [
+    "politically ruthless",
+    "patient in his cruelty",
+    "wears authority like armor",
+    "petty beneath the grandeur",
+    "smiles when he has won"
+  ],
+  "relationships": {
+    "Elijah": "The righteous man he exiled and now intends to destroy completely.",
+    "Cordelia": "Irrelevant to him. She is merely the instrument of Elijah's punishment.",
+    "The Church": "Represents its institutional corruption made manifest."
+  }
+}

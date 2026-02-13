@@ -1,0 +1,12 @@
+{
+  "topic": "Monster Classification",
+  "description": "The system by which monsters are categorized and their legal treatment determined. Classification is based on capacity for reason.",
+  "rules": "Gilded Monsters (capable of reason, e.g., vampires) cannot be executed on sight and must be tried in court. Lesser Creatures (incapable of reason, e.g., gremlins) are executed on the spot by hunters. The Holy See relishes trials of gilded monsters as demonstrations of power.",
+  "details": {
+    "Gilded Monsters": "Capable of reason. Must be tried in court. Cannot be killed on sight. Vampires fall into this category.",
+    "Lesser Creatures": "Incapable of reason. Executed on the spot by hunters. No trial, no consideration.",
+    "Grey Areas": "Werefolk exist in complicated space: capable of reason but often treated as beasts.",
+    "The Wendigo": "Represents a human who chose to become a monster. The ultimate corruption.",
+    "Thematic Function": "Each category illuminates the central question: What makes a monster? The classification system reveals more about the classifiers than the classified."
+  }
+}

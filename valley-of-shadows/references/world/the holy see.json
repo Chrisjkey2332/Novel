@@ -1,0 +1,13 @@
+{
+  "topic": "The Holy See",
+  "description": "The central institution of the Church, wielding both religious and political power. A city of gold-leafed spires and white marble walls where opulence masks corruption. The seat of the tribunal that will judge Cordelia.",
+  "rules": "Wolves in sheep's clothing fill positions of power. Righteousness is punished; compliance is rewarded. Trials of gilded monsters are theater: the Holy See enjoys demonstrating power over normally untouchable beings. Justice is incidental to spectacle.",
+  "details": {
+    "Architecture": "Gold-leafed spires, white marble walls. Beautiful corruption. Beggars chased from doorways, children scrubbing marble.",
+    "The Hunters": "Ostensibly holy warriors, often men cast out from inner circles. Some guards view hunting as beneath them; others see it as cruel work for broken men.",
+    "The Trial System": "Trials of gilded monsters are theater. Demonstrates power over the normally untouchable. Justice is incidental.",
+    "The Corruption": "Men like Elijah who speak truth are exiled. Men like the Archbishop who play politics rise.",
+    "Elijah's Degradation": "Systematic humiliation through petty summons, interrupted visits, meaningless duties. Death by a thousand cuts.",
+    "The Cells": "Hum with holy power. Clean stone, iron bars, the weight of centuries of faith. Designed to demonstrate institutional power."
+  }
+}

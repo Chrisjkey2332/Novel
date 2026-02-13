@@ -1,0 +1,47 @@
+{
+  "topic": "The Five Attempts",
+  "description": "Cordelia's five attempts to convince Elijah to abandon his mission. Each escalates in emotional investment, tracking her transformation from self-interest to genuine care.",
+  "attempts": [
+    {
+      "number": 1,
+      "chapter": 9,
+      "type": "The Practical Argument",
+      "cordelia": "You know they will execute me. Why waste your time escorting a corpse?",
+      "elijah": "You will receive a trial. That is more than most of your kind offer their victims.",
+      "subtext": "She is testing him, seeing if he wants her dead."
+    },
+    {
+      "number": 2,
+      "chapter": 11,
+      "type": "The Freedom Argument",
+      "cordelia": "You have seen how they frame the innocent. You have seen how little truth matters to power. And you still believe a trial will be just?",
+      "elijah": "I believe it must be attempted.",
+      "subtext": "She is genuinely confused by his faith in a system that failed him."
+    },
+    {
+      "number": 3,
+      "chapter": 15,
+      "type": "The Personal Appeal",
+      "cordelia": "Come with me. Not forever, just away. You could do more good in a year of hunting than a lifetime of serving those men.",
+      "elijah": "I serve God, not men.",
+      "subtext": "She is starting to care about his fate, not just her own."
+    },
+    {
+      "number": 4,
+      "chapter": 18,
+      "type": "The Desperate Argument",
+      "cordelia": "You are a good man, Elijah. Perhaps the only one I have met. And they will destroy you for it, just as they will destroy me. We could live. We could matter.",
+      "elijah": "I matter now. This matters. What we are doing, the children safe, the truth carried forward, it matters.",
+      "subtext": "She is offering him everything she wishes someone had offered her when she left vampire society."
+    },
+    {
+      "number": 5,
+      "chapter": 22,
+      "type": "The Silence",
+      "cordelia": null,
+      "elijah": null,
+      "subtext": "She stops asking. He notices. She has accepted something: her fate, his choice, or both."
+    }
+  ],
+  "thematicFunction": "The five attempts track Cordelia's transformation from detached self-interest to genuine love for another person's wellbeing. Each attempt reveals more about her emotional state than about her argument."
+}

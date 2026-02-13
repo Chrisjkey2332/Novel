@@ -1,0 +1,19 @@
+{
+  "name": "The Werefolk",
+  "role": "Supporting Characters",
+  "description": "A pack falsely accused of destroying a village, who agree to shelter the children. Like Cordelia and Elijah, they are victims of institutions that find convenient scapegoats.",
+  "backstory": "Their village was burned by human soldiers; they were blamed to justify a purge. They were driven from their homes and live in northern caves.",
+  "motivation": "Survival. Clearing their name. Protecting those who need protection.",
+  "arc": "Demonstrate that monsterhood is often assigned rather than earned. Provide the children with a found family. The pack leader echoes Cordelia's own words about being hunted by those who should protect.",
+  "traits": [
+    "falsely accused",
+    "community-oriented",
+    "protective",
+    "mirrors Cordelia's situation"
+  ],
+  "relationships": {
+    "The Children": "Agree to shelter them. The temporary arrangement becomes something more.",
+    "Cordelia": "Fellow 'monsters' who understand false accusation.",
+    "Elijah": "His investigation at the burned village reveals they were framed."
+  }
+}

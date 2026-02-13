@@ -1,0 +1,85 @@
+{
+  "premise": "A vampire named Cordelia, who exiled herself from vampire society for its growing cruelty toward humans, is captured by Elijah, a former Bishop turned monster hunter. She had violated the Compact between species by entering a human village to save abused children. Elijah must escort her across the continent to stand trial at the Holy See. Along the journey, they encounter monsters of every kind, each encounter illuminating the central question: What makes a monster? The story ends not with a verdict but with a revelation: the judge at Cordelia's trial is the Archbishop who exiled Elijah. The trial was never about justice for a vampire. It was always about punishing the righteous man who dared speak truth to power.",
+  "beats": [
+    {
+      "order": 1,
+      "title": "The Capture",
+      "chapters": "1-2",
+      "description": "Cordelia lives in self-imposed exile in a forest, at peace with her isolation. Elijah, a monster hunter, arrives and captures her through cunning: holy water traps and a crucifix binding ritual that strips her powers. Her predatory confidence gives way to genuine fear as she realizes this hunter is different from any she has encountered.",
+      "characters": ["Cordelia", "Elijah"],
+      "tension": "Establishing Cordelia's voice and predatory lens. The binding ritual shifts power completely. First encounter between protagonist and her captor."
+    },
+    {
+      "order": 2,
+      "title": "The Children Revealed",
+      "chapters": "3-5",
+      "description": "Under compulsion, Cordelia leads Elijah to the caves where she has been keeping abducted human children. Elijah expects to find corpses. Instead he finds living children, malnourished because Cordelia has been feeding them animal blood, not understanding human needs. Flashbacks reveal Cordelia's three weeks of confused caregiving. Elijah discovers the children bear scars of ritualistic bloodletting, redirecting his fury from Cordelia to whoever harmed them.",
+      "characters": ["Cordelia", "Elijah", "Martha", "Thomas", "Lily", "the children"],
+      "tension": "The twist that reframes everything. Cordelia is not a predator but a failed rescuer. Elijah's certainties begin to crack."
+    },
+    {
+      "order": 3,
+      "title": "The Village Trial",
+      "chapters": "6",
+      "description": "Elijah brings Cordelia to the village and turns the trial on Elder Gransel, exposing the bloodletting practice and the graveyard full of small graves. He executes the elder by authority of the Crown and the Holy See. The first demonstration that human institutions harbor their own monsters.",
+      "characters": ["Cordelia", "Elijah", "Elder Gransel", "villagers"],
+      "tension": "The trial twist. Human monstrosity exposed. Foreshadows the corruption Elijah will face at the Holy See."
+    },
+    {
+      "order": 4,
+      "title": "The Law and the Journey",
+      "chapters": "7-8",
+      "description": "Elijah explains the Compact and his legal duty: despite the village's guilt, Cordelia violated the law by entering a human settlement and taking children. She must stand trial at the Holy See. The children become wards under Elijah's custody, with Cordelia continuing their care because they trust her. The journey begins. Cordelia's first attempt to dissuade Elijah.",
+      "characters": ["Cordelia", "Elijah", "the children"],
+      "tension": "The philosophical core established: law versus justice. The uneasy partnership between vampire and hunter begins."
+    },
+    {
+      "order": 5,
+      "title": "The Road and Growing Understanding",
+      "chapters": "9-11",
+      "description": "Days blur together on the road. The children slowly adjust: Martha begins speaking to Cordelia, Thomas speaks to Elijah through the rook scene. Cordelia observes Elijah's prayers and questions her own emptiness. The ideology conversation reveals the parallel between vampire society's corruption and the Church's fall: jokes becoming tropes becoming policy becoming ideology. Two exiles recognize each other.",
+      "characters": ["Cordelia", "Elijah", "Martha", "Thomas", "the children"],
+      "tension": "Quiet character work. The five attempts to dissuade Elijah begin escalating. Connection forms between two people who both chose conscience over belonging."
+    },
+    {
+      "order": 6,
+      "title": "The Burned Village and the Werefolk",
+      "chapters": "12-17",
+      "description": "They reach a burned village, officially destroyed by werewolves. Elijah's investigation reveals the evidence contradicts the official story: burn patterns wrong, blade wounds not claw marks. The children are taken by werefolk, but the pack is protecting them, not attacking. The werefolk were driven from their homes and framed. They offer to shelter the children. The agonizing farewell as Cordelia leaves the children she saved with monsters who prove more humane than humans.",
+      "characters": ["Cordelia", "Elijah", "the children", "werefolk", "Martha", "Lily"],
+      "tension": "Monsterhood is assigned, not earned. The werefolk mirror Cordelia's own false accusation. Losing the children is devastating. Lily's first words: 'Come back.'"
+    },
+    {
+      "order": 7,
+      "title": "The Nature of Monsters",
+      "chapters": "18-22",
+      "description": "The mountain pass brings encounters that complete the spectrum of monstrosity. Gremlin-like creatures: not evil, just animals. The debate about what makes a monster. Then the wendigo: a human who chose to become a monster, representing true unambiguous evil. Cordelia sacrifices herself as bait. The crucifix flares with warm holy light. Both are gravely wounded. Two weeks of healing follow, during which both share their full backstories. Cordelia stops asking Elijah to escape. He notices.",
+      "characters": ["Cordelia", "Elijah"],
+      "tension": "The full spectrum of monstrosity explored. The wendigo battle is the physical climax. The healing period is the emotional climax of their relationship. The fifth attempt is silence."
+    },
+    {
+      "order": 8,
+      "title": "The Holy See",
+      "chapters": "23-26",
+      "description": "The city of gold and marble rises before them. Opulence built on suffering. Cordelia is imprisoned in cells that hum with holy power. Elijah visits, but every visit is interrupted by petty summons and systematic humiliation. The men who exiled him reveal themselves as small, cruel men who hate him for his integrity. Cordelia watches helplessly as Elijah is broken by a thousand cuts.",
+      "characters": ["Cordelia", "Elijah", "Cardinal Marcellus", "clergy"],
+      "tension": "The institutional corruption made visceral. Elijah's degradation shown through Cordelia's horrified perspective. The trap they walked into becomes clear."
+    },
+    {
+      "order": 9,
+      "title": "Blood and Cages",
+      "chapters": "27-28",
+      "description": "Cordelia's sister arrives as an emissary from vampire society, offering return and safety. Cordelia refuses: 'I have been alive for a very long time, sister. It is not the same as living.' Both protagonists are now explicitly trapped by parallel systems. Vampire society and the Church are the same cage wearing different faces.",
+      "characters": ["Cordelia", "The Sister", "Elijah"],
+      "tension": "Cordelia must articulate why she left and why she cannot return. The mirror between vampire society and the Church becomes explicit. Both exiles are being punished for the same crime: conscience."
+    },
+    {
+      "order": 10,
+      "title": "The Final Night and Judgment",
+      "chapters": "29-30",
+      "description": "The night before the trial. Cordelia makes her final plea, not for her own life but for Elijah's: 'Because yours think you are cattle, Elijah. They just have not told you yet.' His mask of strength breaks. He walks away small and broken. The morning. The trial chamber. Cordelia searches for Elijah in the crowd. The judge enters: the Archbishop. The one who cast Elijah out. His eyes find Elijah. The silent message: You are nothing. Cordelia understands. The trial was never about justice for a vampire. The Archbishop smiles. The trial begins.",
+      "characters": ["Cordelia", "Elijah", "The Archbishop"],
+      "tension": "The devastating revelation. No verdict is shown. The real story was always Elijah's destruction. The ending is the image of a righteous man watching the wolf who destroyed his life take the seat of judgment."
+    }
+  ]
+}

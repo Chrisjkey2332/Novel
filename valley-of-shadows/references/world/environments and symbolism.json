@@ -1,0 +1,21 @@
+{
+  "topic": "Environments and Symbolism",
+  "description": "The story moves through distinct environments, each reflecting thematic content. The landscape is a character.",
+  "rules": "Each environment should reflect the emotional and thematic state of the narrative at that point.",
+  "details": {
+    "The Forest": "Darkness, moonlight, Cordelia's domain. Freedom that ends with capture.",
+    "The Village": "Revealed corruption. Human institutions harbor their own monsters.",
+    "The Road": "Transitional, neither safety nor destination. Vulnerability and growth.",
+    "The Burned Village": "Ash and false accusations. Visual representation of convenient lies.",
+    "The Werefolk Haven": "Warmth despite monstrous inhabitants. Found family.",
+    "The Mountain Pass": "Chaos and survival (gremlins). Animals without malice.",
+    "The Frozen Wood": "Pure white and black. Unambiguous evil (wendigo). Cold clarity.",
+    "The Holy See": "Gold and marble. Beautiful corruption. The cage gilded.",
+    "Recurring Motifs": {
+      "Ash Trees": "Appear at significant moments (Ch. 1, 7, 9, camp scenes). Symbolize connecting worlds. Need a final reference at the Holy See to close the frame.",
+      "Wells": "Symbols of community and sustenance, central gathering points.",
+      "Dusk": "The dangerous liminal hour when things cross over.",
+      "Thomas's Rooks": "Established Ch. 5, reinforced Ch. 8. Needs payoff after the children depart."
+    }
+  }
+}

@@ -1,0 +1,89 @@
+# Chapter 1: The Valley of Shadows
+In the darkness of the forest, each tree standing as a phalanx in an impenetrable shield wall, I sit alone.
+Perched high in the crown of an ancient ash, I bask in the silver moonlight that filters through the canopy above, the only illumination that dares penetrate my domain. The ash tree connects worlds, if the old stories hold any truth, its roots reaching down into realms of the dead while its branches stretch toward the heavens. I do not know if I believe in such tales, but I find comfort in the concept, nonetheless. I have lived here for three centuries, and in that time, I have learned every shadow, every hollow, every creature that calls these woods home. The forest has become an extension of myself, its rhythms as familiar as the slow pulse that no longer beats within my chest.
+The air carries its nightly report: pine resin sharp and clean, the musk of a badger in its sett two hundred paces to the east, the copper-thread scent of a fox bleeding out somewhere in the underbrush. Its wounds are fresh, perhaps an hour old, inflicted by something with teeth rather than claws. A territorial dispute, most likely. The forest speaks in scent, and I have learned its language over these solitary years.
+Below me, a deer picks its way through the undergrowth, its hooves finding the gaps between fallen branches with the careful precision of prey that knows it is never truly safe. I watch it without hunger. I fed three nights ago on a young buck, and my kind can go weeks between meals when we choose to. The deer is safe from me tonight. It does not know this, of course. It cannot know. To understand safety, one must first understand the predator, and I have made certain that nothing in this forest understands me at all.
+The moonlight catches on my pale skin, on the dark fall of hair that spills past my waist in tangled waves, on the simple white shift I wear, the last remnant of the life I left behind. The fabric has grown thin over the years, worn soft by weather and the rough bark of countless trees. I no longer notice the way it clings to me. There is no one to notice. There has been no one for a very long time.
+I push a strand of hair behind my ear and watch the deer disappear into the shadows. The gesture is unnecessary. A habit retained from centuries of moving among humans, of wearing their mannerisms like a mask. I wonder sometimes if I adopted their postures so thoroughly that I have forgotten which movements are truly mine and which are borrowed.
+The forest asks nothing of me. The deer do not speak. The trees do not scheme. After centuries among my own kind, with their politics and hierarchies and endless debates about the proper use of humans, the silence is a relief beyond measure.
+I remember the last gathering I attended before I left. The great hall carved from living stone, torchlight dancing across faces that had not aged in centuries. They were discussing the new policies, the ones that formalized what had once been whispered jokes. Humans as resources. Humans as cattle. Humans as something less than the speaking peoples, to be managed and harvested according to our needs.
+I sat in my appointed place and said nothing. I had learned by then that speaking accomplished nothing except to mark oneself as difficult. But I watched their faces, the eager ones who believed the ideology, the cautious ones who went along because resistance seemed pointless, the ambitious ones who saw opportunity in the new order. I searched for doubt, for discomfort, for anyone who might meet my eyes and share in my growing horror. My sister sat three seats away -- not blood, but the bond of the turning, made by the same hand in the same decade -- and her face carried the same serene composure it had carried for two centuries, the composure of a creature who had learned to navigate the system so thoroughly that the system's ugliness no longer registered as ugliness. She did not meet my eyes. She had not met my eyes in a very long time.
+I found no one.
+So I left. Not dramatically, not with pronouncements or accusations. I simply failed to appear at the next gathering, and the one after that, until my absence became a settled fact rather than a scandal. My family sent messages at first, then envoys, then silence. They have their own concerns. An absent daughter is an embarrassment, but not an emergency.
+There is also the matter of the Compact. The treaty between the speaking peoples -- human, vampire, werefolk -- that governs where we may go and what we may do. Under its terms, my kind are forbidden from entering human settlements without sanction. I could have remained in the fold, submitted to its jurisdictions and tribunals, played the careful game of coexistence my sister plays so well. Instead, I chose the forest. The Compact does not govern what happens among the trees, and the trees do not require treaties.
+
+Here in the forest, existence is simple: hunt, feed, rest. The creatures of the wood operate on instinct, and instinct I have always understood. It is the other thing, the wanting, the peculiar needs that drive the speaking races to build their hierarchies and wage their wars, that has always eluded me.
+I do not miss conversation. I am not certain I ever understood the purpose of it.
+A rustle in the canopy draws my attention. An owl, settling onto a branch twenty paces distant, its great golden eyes catching the moonlight as it surveys its domain. We regard each other for a moment, two predators acknowledging each other's presence without threat. The owl is not prey. I am not competition. We exist in parallel, hunting different creatures, ruling different hours of the same darkness.
+I have always felt more kinship with owls than with my own kind.
+The night deepens around me, the moon climbing higher, the shadows shifting their patterns across the forest floor. I could remain here until dawn, watching the small dramas of the night unfold beneath me, the mice that venture from their burrows, the foxes that hunt them, the endless cycle of predator and prey that has continued since long before I was made and will continue long after I am dust.
+But something has changed.
+I sense it before I hear it: a wrongness in the pattern, a disturbance in the rhythms I have come to know so intimately. The owl feels it too; its head swivels, its wings tense. Somewhere to the south, the night birds have fallen silent.
+I rise slowly, my bare feet finding purchase on the rough bark, and move along the branch toward a gap in the canopy that offers a better view. The texture of the wood is familiar against my soles, mapped in memory from a hundred nights of climbing. My shift rides up as I move, but there is no one to see, and modesty is a human concern I abandoned long ago.
+There. Movement in the underbrush. Something large, moving with purpose rather than caution. The deer I watched earlier bolts from cover, crashing through the brush in blind panic. A moment later, the source of its fear emerges into a patch of moonlight.
+A human.
+I assess him automatically, the way one assesses any potential prey or threat. Male, by the breadth of shoulders beneath the worn black cloak. Tall, though not unusually so. His heart beats steadily, not the rabbiting panic I usually inspire when humans stumble into my domain. Strange. Humans fear the dark. They fear the things that move within it. They should fear me most of all.
+The shimmer of a silver-tipped arrow catches my eye. The familiar scent of blessed oil reaches my nose. Beneath his cloak, I detect the weight of weapons, the bulk of supplies prepared for a long hunt. This is no lost traveler, no woodsman straying too far from home.
+Ah. One of those.
+A hunter.
+A smile of amusement crosses my lips. They keep coming, these humans with their arrows and their oil. I have evaded a dozen such hunters in my centuries, watched them blunder through the darkness while I moved unseen above their heads. The pattern repeats endlessly: they arrive with their weapons and their prayers, they search, they find nothing, they leave. Or they find me, and they do not leave at all.
+This one moves differently than the others. There is no hesitation in his step, no fearful scanning of the shadows. He walks as though he knows exactly where he is going, as though the forest holds no mysteries for him. His eyes, I cannot see their color from this distance, but I can see the way they move, tracking details, reading signs I have left without meaning to.
+Interesting.
+I shift my position, moving silently from branch to branch, circling to observe him from a different angle. His cloak bears no insignia I recognize, but the crucifix at his throat catches the moonlight, unmistakable. A man of faith, then. They are often the most dangerous kind, not because their weapons are sharper, but because their certainty makes them unpredictable.
+He stops in a clearing below me, tilting his head as though listening. For a moment, I think he has sensed me, but his attention seems directed elsewhere. He kneels, examining something on the ground, tracks, perhaps, or the disturbance left by my last hunt. His fingers trace the earth with practiced familiarity.
+I have watched humans hunt before. They are clumsy creatures, loud and graceless, relying on dogs and numbers to compensate for their dull senses. This one hunts alone, and he hunts in silence. The contradiction intrigues me.
+The hunter rises and turns, his eyes scanning the canopy. For one breath, I am certain he is looking directly at me. My muscles tense, preparing to flee into shadow, but his gaze passes over my hiding place without pause. He has not seen me. He cannot have seen me. I am darkness itself when I choose to be.
+And yet.
+"Name thyself, demon, in the name of the Lord thy God!"
+The voice is deep, unwavering. It echoes through the trees, startling a flock of roosting birds into panicked flight. He speaks to the air, to the shadows, to whatever he believes lurks in the darkness around him. His eyes are still moving, still searching, but his words carry the force of absolute conviction.
+They always do, the faithful ones. They speak to their invisible God as though He might answer, as though the empty air holds something other than silence. I have watched humans practice faith for longer than most of their civilizations have existed, and it still makes no sense to me. The air never responds, yet they continue.
+Perhaps it is a form of ritualized comfort, like a cat kneading a blanket.
+I consider my options. I could remain hidden, wait for him to give up his search and move on. He cannot find me if I do not wish to be found. The forest is vast, and I know its secrets better than any human ever could.
+But the way he moves. The certainty in his voice. The steadiness of his heartbeat when it should be racing with fear.
+I want to know what makes this one different.
+"Yet another vampire hunter," I say, letting my voice carry from a different position than my body occupies. The sound drifts through the trees, impossible to locate. "How exciting."
+A giggle escapes me as I watch his reaction. The sound is high and girlish, designed to unsettle, the voice of a child emerging from the mouth of a predator. Hunters expect monsters to growl, to snarl, to announce themselves with the sounds of threat. They do not expect laughter.
+The hunter spins toward my voice, his bow rising, but I have already moved. I stand above him now, perched on a branch directly over his head, looking down at the crown of his skull with something approaching fondness. He does not know how close he is to death. A single drop, a moment's work, and his throat would be open before he could cry out.
+But that would be boring. And I have been so terribly bored.
+"I am up here," I call, still not from where I actually stand.
+He whirls again, and this time I let him catch a glimpse, a flash of pale skin, dark hair, the flutter of white fabric disappearing behind a tree trunk. His arrow flies, embedding itself in bark two feet from where I had been. The aim would have been true if I had stayed in place. He is fast. Faster than the others.
+I want to see how fast.
+I appear before him, sudden as a blink, close enough to see the individual hairs in his beard, the fine lines that bracket his eyes, the gray threading through his dark hair. His bow is useless at this distance. His hand goes to the crucifix at his throat instead, and he begins to speak in low, urgent tones.
+The words are Latin. A prayer, perhaps, or an invocation. I feel nothing when he speaks them, no burning, no weakness, no divine light scouring the darkness from my soul. The prayers of ordinary faithful have never touched me. My kind are not demons, whatever the Church may claim. We are simply old. Simply different. Simply hungry in ways humans cannot comprehend.
+"Your prayers do not work on me," I say, tilting my head to study his face. "I have met demons. We are not related."
+He looks up and startles at my sudden appearance. I know what he sees. I have seen it reflected in human eyes before, have watched their pupils dilate, their breath catch, their bodies respond in ways they do not choose. A young woman, or what appears to be one, no older than perhaps twenty winters by human reckoning. Skin pale as birch bark, luminous in the moonlight, stretched smooth over delicate collarbones. Dark hair loose and wild, tangled with leaves from months in the forest. Eyes that catch the light wrong, that hold something ancient behind a youthful face.
+We are beautiful, my kind. I am told it makes the feeding easier. I have never cared about easier.
+But this one does not respond as humans usually do. His pupils dilate, yes, a physical response he cannot control, but his expression remains steady. His breathing does not quicken. His heartbeat maintains its measured rhythm.
+And his eyes do not drift downward to the exposed skin of my legs, the translucent fabric of my shift, the curve of throat and collarbone that usually draws human attention like moths to flame. His gaze remains fixed on my face. On my eyes.
+Interesting.
+"Name yourself," he says again, his voice unwavering. "That ye may yet be saved."
+I begin to kick my feet playfully, dangling them over the edge of the branch like a child perched upon a garden wall. The posture is deliberately disarming, deliberately wrong. Predators do not play. Predators do not expose their bellies or swing their legs or giggle like little girls.
+Unless they want their prey to underestimate them.
+"My name is Cordelia," I say. "And I am not in need of saving. Not from you. Not from your God. Not from anything at all."
+I push myself off from the branch, my body moving with an elegance unsuited to the wild environment, my hair streaming upward as I fall. Before I reach the ground, I vanish into shadow and mist, my form dissolving into nothing.
+The hunter spins, his eyes searching the darkness, but I am everywhere and nowhere. My giggle echoes from the trees, musical and ominous, bearing no fixed origin.
+"You seek me," I whisper from behind him.
+He whirls.
+"You hunt me," I breathe from above.
+He looks up.
+"But you cannot catch me." I materialize before him again, so close our chests nearly touch, my face tilted up toward his. "So why should I be afraid?"
+For one moment, I think I have him. His heart should be racing now, his hands trembling, his every instinct screaming at him to flee from the thing that stands before him wearing a woman's face. I have played this game a hundred times. I know how it ends.
+But his eyes meet mine, and I see not fear nor regret.
+I see defiance.
+And something else. Something that looks almost like anticipation. His jaw has set, the muscles tightening in a configuration I recognize from wolves who have driven prey exactly where they want it. His lips curve upward at the corners, the smallest of movements, but unmistakable.
+The expression of a hunter who has cornered his quarry.
+"I did not need you afraid," he says. "I just needed you close."
+His hand moves. Not to his bow, not to the crucifix at his throat. To a string hidden within his cloak, invisible until now, leading to hidden pockets I had not detected.
+I have lived through plagues and wars and the rise and fall of human kingdoms. I have watched empires crumble and seen my own kind tear themselves apart over politics I never cared to understand. In all that time, I never thought to study how humans hunt us. Why would I? They are prey.
+Prey does not strategize.
+Prey does not plan.
+Prey does not lay traps.
+A sharp pop pierces the air between us as the hidden pockets burst. The scent of garlic and oily water fills my nostrils an instant before the liquid strikes my skin.
+Holy water.
+Upon contact, the water begins to boil, searing everywhere it touches. My eyes flash with anger and surprise as I recoil in pain and let loose a blood-curdling cry into the otherwise silent night. The agony is exquisite. I have felt it before, but never like this, never so much at once. The blessed liquid eats into my flesh like acid, and the smell of my own burning skin fills my nostrils, acrid and wrong.
+I stagger backward, my vision swimming, my strength faltering.
+The hunter has already closed the distance between us. The crucifix gleams in his hand, raised like a weapon, and words spill from his lips, soft, fervent, in a cadence that speaks of long practice. He is speaking to the empty air again, to his invisible God.
+But this time, something is different.
+This time, the air seems to be listening.
+The crucifix descends toward my throat.
+And I realize, with a sensation I have not felt in over a century, that I may have made a terrible mistake.

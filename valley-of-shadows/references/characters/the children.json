@@ -1,0 +1,29 @@
+{
+  "name": "The Children",
+  "role": "Supporting Characters",
+  "description": "The abused children Cordelia saved from the village, who travel with Elijah and Cordelia until left at the werefolk haven. Seven children total, with Martha, Thomas, and Lily most individually developed.",
+  "backstory": "Victims of Elder Gransel's bloodletting rituals in the village. Malnourished, traumatized, afraid of adults. They were rescued by Cordelia three weeks before Elijah's arrival and have been living in caves, fed animal blood.",
+  "motivation": "Survival. Safety. Finding people who will not hurt them.",
+  "arc": "Begin traumatized and mute. Trust Cordelia because she has been their protector. Fear Elijah initially. Slowly learn that not all authority figures are dangerous. When left with the werefolk, they find a found family among those the world calls beasts.",
+  "traits": [
+    "traumatized",
+    "resilient",
+    "trust Cordelia implicitly",
+    "slowly warm to Elijah"
+  ],
+  "individuals": {
+    "Martha": "Twelve years old. Parentified by trauma. The eldest and caretaker. First to speak to Cordelia: 'No one ever stayed before.' Her insights are practical wisdom, not philosophical. Pleads with Cordelia to stay at the werefolk camp.",
+    "Thomas": "Speaks first to Elijah through the rook scene, asking about a bird. Fascinated by rooks. This motif should recur but currently does not pay off after the children depart.",
+    "Lily": "The youngest and most withdrawn. Does not speak until the farewell scene, where her first words are 'Come back.' Needs physical buildup of engagement in preceding chapters (mouthing words, gripping harder).",
+    "James": "Needs more individual development in later chapters.",
+    "Samuel": "Needs more individual development in later chapters.",
+    "Peter": "Needs more individual development in later chapters.",
+    "Wren": "Needs more individual development in later chapters."
+  },
+  "relationships": {
+    "Cordelia": "Their protector. They trust her completely.",
+    "Elijah": "Initially feared. Thomas breaks through first. Gradual trust builds.",
+    "The Werefolk": "Their eventual found family. Monsters who prove more humane than the humans who should have protected them."
+  },
+  "thematicFunction": "The children represent what the story is actually about: innocents caught between corrupt institutions. The Church failed to protect them. The law would have left them to die. A vampire saved them. A hunter delivered them to safety. The official story will never reflect this truth."
+}

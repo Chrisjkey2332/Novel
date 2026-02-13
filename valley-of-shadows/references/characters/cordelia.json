@@ -1,0 +1,27 @@
+{
+  "name": "Cordelia",
+  "role": "Protagonist/POV Narrator",
+  "description": "A vampire who voluntarily exiled herself from vampire society. The story's first-person narrator. Clinical and analytical, she observes the world through a predatory lens that gradually softens into genuine emotional engagement. Dry wit masks centuries of loneliness. She does not see herself as heroic.",
+  "backstory": "Rose through vampire society on skill and cunning. Watched the ideology of human inferiority spread: first as jokes, then as policy, then as the unquestioned belief that humans were cattle. Rather than participate in what her society was becoming, she left voluntarily before she was forced to be complicit.\n\nHer exile brought emptiness. Survival without purpose. She lived alone in a forest for an indeterminate period, centuries perhaps. Until she discovered the children: abused, starving, being bled by their village elder. She took them. That single choice of compassion is what brings her to the Holy See in chains.\n\nCrucially, Cordelia has lived for centuries but knows very little about humans or their needs. She fed the children animal blood, not understanding that human children cannot survive on such sustenance.",
+  "motivation": "Initially: survival. Through the journey: understanding why Elijah continues to serve a system that betrayed him. By the end: genuine care for another's fate, not just her own.",
+  "arc": "Begins as a detached, clinical observer who compares humans to animals and misses emotional cues. Through observing Elijah's suffering and faith, she is forced to confront her own emptiness. She offered him escape five times, not just to save herself but because she recognizes a kindred spirit being destroyed by the system he serves. Her final understanding, that the trial is about punishing Elijah rather than judging her, completes her transformation from detached observer to someone who genuinely cares.",
+  "traits": [
+    "clinical and observant",
+    "predatory lens that gradually softens",
+    "dry wit masking loneliness",
+    "centuries old but ignorant of human needs",
+    "compares humans to animals",
+    "does not see herself as heroic",
+    "self-exiled by conscience",
+    "analytical to a fault",
+    "growing capacity for genuine emotion"
+  ],
+  "relationships": {
+    "Elijah": "Captor who becomes a kindred spirit. Both are exiles who chose conscience over belonging. She comes to care about his fate more than her own.",
+    "The Children": "She saved them from abuse but failed to understand their needs. They trust her implicitly. Losing them to the werefolk is devastating.",
+    "The Sister": "Represents the path Cordelia rejected. Offers return to vampire society, which Cordelia refuses.",
+    "Martha": "The eldest child, twelve years old. The first to speak to Cordelia. Their bond is the deepest.",
+    "Vampire Society": "Left voluntarily before being forced to participate in its growing cruelty toward humans."
+  },
+  "voiceNotes": "First person, present tense. Early chapters: clinical, predatory vocabulary (prey, catalog, assess, specimen). This language should decline measurably across the 30 chapters, with the steepest decline between chapters 15-22. She uses 'something I cannot name' for emotions early on, but should begin tentatively naming them by mid-story. Her descriptions of Elijah shift from threat assessment to appreciation. The hedging construction 'something that might be' should reduce by 60% as the story progresses."
+}

@@ -6,22 +6,96 @@ This document defines the collaborative workflow for brainstorming, developing, 
 
 ```
 Novel/
-├── _ideas/                    # Raw brainstorm notes, not yet a full project
+├── _ideas/                          # Raw brainstorm notes, not yet a full project
 │   └── {idea-name}.md
 │
-├── {novel-name}/              # One folder per novel project
-│   ├── concept.md             # Premise, themes, tone, genre, pitch
-│   ├── characters.md          # Character profiles, arcs, relationships
-│   ├── world.md               # Setting, world-building, rules
-│   ├── outline.md             # Act/chapter-level story structure
-│   ├── chapters/
-│   │   ├── 01-chapter-name.md # Chapter plan + draft prose
-│   │   ├── 02-chapter-name.md
+├── {novel-name}/                    # One folder per novel project
+│   ├── manuscript/
+│   │   ├── metadata.json            # Title, genre, POV, tense, tone, status
+│   │   ├── chapter-01.md            # Chapter prose
+│   │   ├── chapter-02.md
 │   │   └── ...
-│   ├── notes.md               # Running research, references, decisions
-│   └── revision-log.md        # Track revision passes and feedback
+│   ├── references/
+│   │   ├── characters/              # One JSON file per character
+│   │   │   ├── {character-name}.json
+│   │   │   └── ...
+│   │   ├── plot/
+│   │   │   ├── beat-sheet.json      # Major story beats with premise
+│   │   │   └── (additional plot docs)
+│   │   └── world/
+│   │       ├── {topic}.json         # One JSON file per world concept
+│   │       └── ...
+│   ├── annotations/                 # Inline notes, editorial marks
+│   ├── logs/                        # Pipeline and process logs
+│   └── reports/                     # Quality analyses, reviews
 │
-└── NOVEL-PROCESS.md           # This file
+└── NOVEL-PROCESS.md                 # This file
+```
+
+## Reference File Formats
+
+### metadata.json
+
+```json
+{
+  "title": "Novel Title",
+  "genre": "Genre",
+  "pov": "First Person / Third Limited / etc.",
+  "tense": "Past / Present",
+  "tone": "Description of tone",
+  "audience": "adult / young adult",
+  "targetWordsPerChapter": 3500,
+  "status": "brainstorm / planning / initialDraft / revision / complete",
+  "createdUtc": "ISO date",
+  "updatedUtc": "ISO date"
+}
+```
+
+### Character JSON
+
+```json
+{
+  "name": "Character Name",
+  "role": "Protagonist / Antagonist / Supporting",
+  "description": "Physical and personality summary",
+  "backstory": "Relevant history",
+  "motivation": "What they want and why",
+  "arc": "How they change across the story",
+  "traits": ["trait1", "trait2"],
+  "relationships": {
+    "Other Character": "Nature of relationship"
+  }
+}
+```
+
+### World JSON
+
+```json
+{
+  "topic": "World Element Name",
+  "description": "What this element is",
+  "rules": "How it works, constraints",
+  "details": {
+    "Key": "Value pairs for specific details"
+  }
+}
+```
+
+### Beat Sheet JSON
+
+```json
+{
+  "premise": "Full story premise in one paragraph",
+  "beats": [
+    {
+      "order": 1,
+      "title": "Beat Title",
+      "description": "What happens in this story beat",
+      "characters": ["Character1", "Character2"],
+      "tension": "What drives this beat forward"
+    }
+  ]
+}
 ```
 
 ## Pipeline Stages
@@ -44,55 +118,49 @@ Lock down what this novel IS before building it out.
 - **Themes**: What deeper questions does this story explore?
 - **Hook**: What makes this compelling? Why this story?
 - **Elevator Pitch**: 2-3 paragraph summary you'd put on the back cover
-- Output: `{novel}/concept.md`
+- Output: `{novel}/manuscript/metadata.json`
 
 ### 3. Characters
 
-Build the cast who will carry the story.
+Build the cast who will carry the story. One JSON file per character.
 
 For each major character:
 - **Name & Role**: Who are they in the story?
-- **Background**: Relevant history, formative experiences
+- **Description**: Physical appearance, personality summary
+- **Backstory**: Relevant history, formative experiences
 - **Motivation**: What do they want? What do they need (if different)?
-- **Flaw/Conflict**: What internal obstacle do they face?
 - **Arc**: How do they change from beginning to end?
-- **Voice**: How do they speak, think, see the world?
+- **Traits**: List of defining characteristics
+- **Relationships**: How they connect to other characters
 
-Also document:
-- **Relationships**: How characters connect to and affect each other
-- **Supporting Cast**: Brief notes on secondary characters
-- Output: `{novel}/characters.md`
+Output: `{novel}/references/characters/{name}.json`
 
 ### 4. World
 
-Define the stage where the story plays out.
+Define the stage where the story plays out. One JSON file per concept.
 
-- **Setting**: Time, place, scope
-- **Rules**: What's different from our world (if anything)?
-- **Atmosphere**: What does this world feel/look/sound like?
+- **Settings**: Major locations with atmosphere and rules
+- **Systems**: Magic, politics, economy, social structures
 - **History**: Relevant backstory that shapes the present
-- **Society & Culture**: Power structures, norms, tensions
+- **Symbolism**: Recurring motifs, environmental themes
 - Only build what the story needs - avoid world-building for its own sake
-- Output: `{novel}/world.md`
+- Output: `{novel}/references/world/{topic}.json`
 
-### 5. Outline
+### 5. Outline (Beat Sheet)
 
-Structure the full story arc.
+Structure the full story arc as major beats.
 
-- **Three-Act Structure** (or whatever structure fits):
-  - Act 1: Setup, inciting incident, first turning point
-  - Act 2: Rising action, midpoint shift, complications, crisis
-  - Act 3: Climax, resolution, denouement
-- **Chapter Beats**: One-line summary of each chapter's purpose
-- **Subplot Threads**: Track B-plots and where they intersect the main arc
-- **Pacing Notes**: Where to accelerate, where to breathe
-- Output: `{novel}/outline.md`
+- Each beat covers one or more chapters
+- Beats are higher-level story movements, not chapter summaries
+- Include characters present and the tension driving each beat
+- A full premise paragraph anchors the beat sheet
+- Output: `{novel}/references/plot/beat-sheet.json`
 
 ### 6. Chapter Plans
 
 Detailed scene-level planning before drafting.
 
-Each chapter file (`{novel}/chapters/XX-chapter-name.md`) starts with a plan section:
+Each chapter file (`{novel}/manuscript/chapter-XX.md`) starts with a plan section:
 
 ```markdown
 # Chapter X: Title
@@ -120,7 +188,7 @@ Write the actual prose.
 - First drafts prioritize momentum over polish
 - Flag issues inline with `[TODO: ...]` rather than stopping to fix
 - It's okay for chapters to grow or split during drafting
-- Update the outline if the story diverges from the plan
+- Update the beat sheet if the story diverges from the plan
 
 ### 8. Revision
 
@@ -130,7 +198,7 @@ Improve what's been written.
 - **Pass 2 - Scenes**: Does each scene earn its place? Tension, clarity
 - **Pass 3 - Prose**: Language, dialogue, voice, rhythm
 - **Pass 4 - Polish**: Continuity, typos, formatting
-- Track each pass in `{novel}/revision-log.md`
+- Track findings in `{novel}/reports/quality-analysis.md`
 
 ## Working Together
 
@@ -147,14 +215,16 @@ Improve what's been written.
 When a brainstorm idea is ready to become a real project:
 
 1. Choose a working title (can change later)
-2. Create the project folder: `{novel-name}/`
-3. Move/expand the idea into `concept.md`
+2. Create the project folder with full directory structure
+3. Fill in `metadata.json` with basic info
 4. Proceed through the pipeline stages in order (but revisiting is fine)
 
-### Notes and research
+### Quality analysis
 
-Use `{novel}/notes.md` as a catch-all for:
-- Research findings
-- Style references and inspiration
-- Decisions made and why
-- Questions to resolve later
+Use `{novel}/reports/quality-analysis.md` as a prioritized checklist:
+- Priority 1: Plot holes and continuity errors
+- Priority 2: Character consistency
+- Priority 3: Repetitive prose and overused patterns
+- Priority 4: Mechanical issues (grammar, formatting)
+- Priority 5: Structural and pacing concerns
+- Priority 6: Thematic and tonal polish
