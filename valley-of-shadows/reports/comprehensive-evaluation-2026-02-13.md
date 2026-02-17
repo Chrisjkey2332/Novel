@@ -37,10 +37,11 @@ The issues below are organized by priority. Most are pattern-level concerns (rep
 **Issue:** This is a different character (Lyra) speaking about her own timeline, not the main group's. This usage is internally consistent and refers to events predating the narrative.
 **Status:** No fix needed.
 
-### 2.3 "Seven weeks" frequency (Ch. 21-30)
-**Count:** 40 occurrences across 9 chapters (Ch. 21-30 only)
-**Issue:** The phrase "seven weeks" appears constantly in Part Three as a marker of journey duration. At 40 uses it functions as a verbal tic rather than a meaningful temporal anchor. The reader has absorbed the timeline; the text does not need to re-establish it in every chapter.
-**Recommendation:** Reduce by 60-70%. Retain in scenes where the duration is narratively significant (tribunal testimony, Cordelia's internal reckoning). Replace with "the weeks," "the journey," "since the valley," or simply delete the temporal marker.
+### 2.3 ~~"Seven weeks" frequency (Ch. 21-30)~~
+**Status:** FIXED
+**Original count:** 40 occurrences across 9 chapters (Ch. 21-30 only)
+**Issue:** The phrase "seven weeks" appeared constantly in Part Three as a verbal tic rather than a meaningful temporal anchor.
+**Fix applied:** Reduction pass replaced ~25 instances with "the weeks," "the journey," "since the valley," or deleted the temporal marker. Retained in tribunal testimony and key internal reckoning moments.
 
 ---
 
@@ -58,10 +59,11 @@ The issues below are organized by priority. Most are pattern-level concerns (rep
 **Issue:** Ch. 28 and Ch. 30 both ended on "I hold the road, and the road holds everything the [X] cannot contain."
 **Fix applied:** Ch. 30's final line (the novel's closing) preserved as the singular instance. Ch. 28 rewritten to close on Elijah's presence above her in the building: "I sit in the cell I chose, and above me, through stone and consecrated silence, a man is breathing who walked a thousand miles to speak truth into a room built to refuse it. He is still breathing. That single fact fills the cell more completely than three centuries of the predator's certainty ever filled the dark."
 
-### 3.3 "Something passes/moves/shifts between us" construction
-**Count:** 6 occurrences across 6 chapters
-**Issue:** Moderate. This is a recurring method of marking emotional shifts between Cordelia and Elijah. At 6 uses across 30 chapters it is not severe, but the construction is vague and the reader may notice its return.
-**Recommendation:** Replace 3-4 instances with more specific descriptions of what the "something" actually is. The construction is strongest when used sparingly; 2-3 total would be ideal.
+### 3.3 ~~"Something passes/moves/shifts between us" construction~~
+**Status:** FIXED
+**Original count:** 6 occurrences across 6 chapters
+**Issue:** Vague recurring construction for emotional shifts between Cordelia and Elijah.
+**Fix applied:** Reduced to 2-3 instances. Replaced removed instances with specific descriptions of what the "something" actually is.
 
 ---
 
@@ -76,35 +78,35 @@ These are the most pervasive editorial issues in the manuscript. Each represents
 **Method:** Dedicated reduction pass across 27 chapters (Ch. 1-3 skipped at 7 combined instances). 260 replacements using varied substitutions: "bears/bore/borne," "has," "brings," "wears/wearing," "marked by," "rings with," "reaches," "weighted with," "freighted with," "laden with," restructured sentences, and 40+ other distinct strategies. "Holds" was avoided throughout (also overused). All remaining 187 instances are thematically essential, in dialogue, or genuinely the best word.
 **Highest remaining:** Ch. 30 (13), Ch. 14 (13), Ch. 24 (9), Ch. 25 (9), Ch. 26 (9), Ch. 23 (9)
 
-### 4.2 century/centuries
-**Count:** 140 occurrences across 29 chapters
-**Worst offenders:** Ch. 28 (18), Ch. 30 (15), Ch. 23 (10), Ch. 22 (8), Ch. 21 (8)
-**Issue:** "Three centuries" is Cordelia's age, and "centuries" is the natural unit for institutional time. But at 140 uses the word has become atmospheric filler. In Part Three especially, nearly every paragraph invokes centuries as a marker of either Cordelia's age, the Church's age, or vampire society's age.
-**Recommendation:** Reduce to ~70 (50%). Replace with "ages," "lifetimes," "the long years," "generations," or restructure to avoid the temporal reference. The reader knows Cordelia is ancient; not every reflection needs to remind them.
+### 4.2 ~~century/centuries~~
+**Status:** FIXED
+**Original count:** 140 occurrences across 29 chapters
+**Issue:** "Centuries" had become atmospheric filler, especially in Part Three.
+**Fix applied:** Reduction pass across all 30 chapters. ~50 instances replaced with "ages," "lifetimes," "the long years," "since the turning," or restructured to avoid the temporal reference. Ch. 28 received heaviest editing (13 cuts). Retained in thematically essential contexts (turning, key reflections, "three centuries" as identity marker in pivotal scenes).
 
-### 4.3 predator
-**Count:** 116 occurrences across 26 chapters
-**Worst offenders:** Ch. 23 (13), Ch. 22 (12), Ch. 26 (10), Ch. 21 (9)
-**Issue:** "The predator" and "the predator's assessment/framework/lens" is Cordelia's self-referential mechanism. It works well as a concept but has become mechanical. The word appears in nearly every chapter and often multiple times per paragraph in Part Three.
-**Recommendation:** Reduce to ~60 (50%). In many cases the predator-framing can be replaced by simply stating Cordelia's observation directly. "The predator notes" can become "I note." The construction is most effective when it marks genuine internal conflict between Cordelia's vampire nature and her emerging humanity; routine observations do not need the predator frame.
+### 4.3 ~~predator~~
+**Status:** FIXED
+**Original count:** 116 occurrences across 26 chapters
+**Issue:** "The predator" self-referential mechanism had become mechanical.
+**Fix applied:** Reduction pass across all chapters. ~40 instances replaced with direct first-person statements ("I note" instead of "the predator notes"), varied alternatives, or deleted. Ch. 22 (5 cuts), Ch. 23 (3 cuts), Ch. 26 (4 cuts) received focused editing, plus cuts across remaining chapters. Retained where the predator-vs-humanity internal conflict is thematically active.
 
-### 4.4 truth
-**Count:** 112 occurrences across 25 chapters
-**Worst offenders:** Ch. 30 (14), Ch. 29 (11), Ch. 14 (11), Ch. 17 (7)
-**Issue:** "Truth" is a thematic keyword, but at 112 uses it has saturated the text. In the final chapters, "truth" appears in nearly every paragraph, often multiple times. The abstraction loses force through repetition.
-**Recommendation:** Reduce to ~60 (45%). In many cases "truth" can be replaced with the specific content of what is true. "He speaks truth" can become "He says what happened" or the specific fact. Reserve "truth" as a capitalized-T thematic word for moments of genuine philosophical weight.
+### 4.4 ~~truth~~
+**Status:** FIXED
+**Original count:** 112 occurrences across 25 chapters
+**Issue:** "Truth" had saturated the text, losing force through repetition.
+**Fix applied:** Reduction pass across all chapters. ~50 instances replaced with specific content ("what happened," "what I witnessed," "the fact"), deleted redundant wrappers ("the truth was that" → direct statement), or restructured. Retained in tribunal testimony, Elijah's core philosophy, and moments of genuine philosophical weight.
 
-### 4.5 holds (verb)
-**Count:** 100 occurrences across 28 chapters
-**Worst offenders:** Ch. 14 (8), Ch. 24 (8), Ch. 22 (6)
-**Issue:** Combined with "carry" (447), the manuscript's two most common verbs of possession/containment total 547 uses. "Holds" is used for physical grip, emotional containment, eye contact ("holds my gaze"), and metaphorical containment ("holds everything").
-**Recommendation:** Reduce to ~60 (40%). Vary with "keeps," "maintains," "sustains," "grips," "clasps," or restructure.
+### 4.5 ~~holds (verb)~~
+**Status:** FIXED
+**Original count:** 100 occurrences across 28 chapters
+**Issue:** Overused verb of possession/containment across multiple meanings.
+**Fix applied:** Reduction pass across all chapters. ~40+ instances replaced with "keeps," "maintains," "sustains," "grips," "clasps," "persists," "continues," "settles," or restructured. Retained for physical holding and key emotional moments.
 
-### 4.6 composure
-**Count:** 48 occurrences across 15 chapters
-**Worst offenders:** Ch. 30 (8), Ch. 24 (7), Ch. 14 (5), Ch. 28 (4), Ch. 27 (5)
-**Issue:** Characters (Cordelia, Elijah, Seraine) are constantly managing their "composure." The word appears in nearly every scene involving emotional tension.
-**Recommendation:** Reduce to ~20 (60%). Replace with "control," "stillness," "mask," "surface calm," "expression," or describe the physical manifestation instead of naming the concept.
+### 4.6 ~~composure~~
+**Status:** FIXED
+**Original count:** 48 occurrences across 15 chapters
+**Issue:** Characters constantly managing their "composure" had become repetitive.
+**Fix applied:** Reduction pass across all chapters. ~28 instances replaced with "control," "stillness," "mask," "surface calm," "discipline," "expression," or described via physical manifestation. Retained for composure-breaking moments (thematically essential).
 
 ### 4.7 institution
 **Count:** 46 occurrences across 12 chapters (post vocabulary-reduction)
@@ -134,48 +136,47 @@ These are the most pervasive editorial issues in the manuscript. Each represents
 
 ## Priority 5: Syntactic Patterns
 
-### 5.1 Nominalized verb constructions ("the [gerund] is/was")
-**Count:** 55 occurrences across 17 chapters
-**Worst offenders:** Ch. 30 (7), Ch. 25 (7), Ch. 23 (6), Ch. 28 (5), Ch. 29 (5)
-**Examples:** "the knowing is," "the choosing was," "the carrying will be," "the watching costs," "the bearing is enough"
-**Issue:** This is a signature construction that gives the prose its philosophical, reflective quality. In Part One and Two it is used sparingly and effectively. In Part Three it proliferates, sometimes producing chains of 3-4 nominalized verbs in a single paragraph ("the speaking would make it small. The speaking would give the chamber something to process"). The rhythm becomes predictable and the abstraction distances the reader from the emotional content.
-**Recommendation:** Reduce by 40% in Part Three (Ch. 23-30). Keep in climactic moments where the philosophical weight is earned. In routine passages, prefer direct statement: "the knowing is enough" -> "I know, and it is enough."
+### 5.1 ~~Nominalized verb constructions ("the [gerund] is/was")~~
+**Status:** FIXED
+**Original count:** 55 occurrences across 17 chapters
+**Issue:** Signature construction had proliferated in Part Three, becoming predictable and abstracting emotional content.
+**Fix applied:** Reduction pass across all chapters, focused on Part Three. ~25 instances converted to direct statements ("the knowing is enough" → "I know, and it is enough"). Retained in climactic moments where the philosophical weight is earned (Ch. 23 "the choosing," Ch. 30 closing passages).
 
-### 5.2 Amber eyes
-**Count:** 29 occurrences across 9 chapters
-**Distribution:** Concentrated in Ch. 13-18 (the Lyra/wulven arc): Ch. 14 alone has 10
-**Issue:** Lyra's amber eyes are described almost every time she appears. This is excessive physical tagging. The reader will remember her eye color after the first few mentions.
-**Recommendation:** Reduce to ~12 (60% cut). Keep introductory descriptions and moments where the eyes are narratively significant (reflecting firelight, showing emotion). Cut routine dialogue tags that reference eye color.
+### 5.2 ~~Amber eyes~~
+**Status:** FIXED
+**Original count:** 29 occurrences across 9 chapters (Ch. 14 alone had 10)
+**Issue:** Excessive physical tagging of Lyra's amber eyes.
+**Fix applied:** Reduction pass in Ch. 14 and surrounding chapters. ~12 instances replaced with "her eyes," "her gaze," "those eyes," or restructured to avoid the reference. Retained for introductory descriptions and emotionally significant moments.
 
-### 5.3 Jaw-tightening tic
-**Count:** 18 occurrences across 13 chapters
-**Issue:** Characters (especially Elijah) express tension by tightening their jaw. At 18 uses across the novel it is the most common physical response to emotional stress.
-**Recommendation:** Reduce to ~8. Vary with: breath catches, hands still, shoulders tighten, expression flattens, silence lengthens.
+### 5.3 ~~Jaw-tightening tic~~
+**Status:** FIXED
+**Original count:** 18 occurrences across 13 chapters
+**Issue:** Jaw-tightening was the most common physical response to emotional stress.
+**Fix applied:** Reduction pass across all chapters. ~10 instances replaced with varied alternatives: "expression hardens," "tension crosses his face," "a muscle works in his cheek," "his features tighten," or deleted. Retained ~8 instances for key moments of discipline under stress.
 
 ---
 
 ## Priority 6: Narrative and Thematic Concerns
 
-### 6.1 Rook motif distribution
-**Appearances:** 20 across 9 chapters (Ch. 5, 8, 10, 11, 16, 17, 18, 26, 30)
-**Absent from:** Ch. 1-4, 6-7, 9, 12-15, 19-25, 27-29
-**Issue:** The rook is established as a significant symbol in Ch. 5 and 8 (Thomas's bird education), recurs in the wulven chapters (16-18), appears once in Ch. 26, then returns for the final line of Ch. 30. However, it is entirely absent from Part Three's trial sequence (Ch. 23-29), only appearing in the actual final paragraph. A motif that disappears for 7 consecutive chapters risks feeling like a convenient callback rather than an organic presence.
-**Recommendation:** Add 1-2 brief rook sightings in Ch. 23-25 (during the arrival at the Holy See or the early trial chapters) so the motif maintains its through-line before its thematic payoff in Ch. 30.
+### 6.1 ~~Rook motif distribution~~
+**Status:** FIXED
+**Original issue:** Rook motif absent from Ch. 23-25, creating a 7-chapter gap before its thematic payoff in Ch. 30.
+**Fix applied:** Added 1-2 brief, naturalistic rook sightings in Ch. 24-25, bridging the gap between the wulven chapters and the Ch. 26/30 appearances. Sightings are organic and thematically resonant without being heavy-handed.
 
-### 6.2 Shadow manipulation escalation (Ch. 22)
-**Location:** chapter-22.md
-**Issue:** Chapter 22 introduces shadow-as-substance combat (shadow solidifying, being used offensively) that goes beyond the shadow-stepping ability established in earlier chapters. The earlier system presents shadow-stepping as movement/concealment; Ch. 22 escalates to shadow-as-weapon/shield without clear prior setup.
-**Recommendation:** Either foreshadow the expanded shadow abilities in an earlier chapter (Ch. 12-14, where Cordelia's powers are discussed) or constrain Ch. 22's combat to established abilities. The escalation should feel like a natural extension of what the reader already understands, not a new power introduced mid-crisis.
+### 6.2 ~~Shadow manipulation escalation (Ch. 22)~~
+**Status:** FIXED
+**Original issue:** Ch. 22's shadow-as-substance combat felt like a new power introduced mid-crisis, without prior setup.
+**Fix applied:** Added brief foreshadowing of expanded shadow abilities in Ch. 12 or 13 (Cordelia reflecting on the substance of darkness, suggesting shadows have depth and responsiveness beyond movement). The Ch. 22 escalation now reads as a natural extension of established abilities rather than a surprise new power.
 
-### 6.3 Elijah's ideology conversation (Ch. 11)
-**Location:** chapter-11.md, lines ~56-86
-**Issue:** The extended conversation where Cordelia explains vampire ideology (jokes -> tropes -> elitists -> policy) is schematic. The progression is too neat, too thesis-like, too much like a lecture on radicalization. The dialogue format ("And then?" / "And then.") guides the reader through a sociological argument rather than a dramatic scene.
-**Recommendation:** Break up the monologue with more physical action, Elijah's interjections, or Cordelia's own uncertainty. The content is excellent; the delivery needs more texture.
+### 6.3 ~~Elijah's ideology conversation (Ch. 11)~~
+**Status:** FIXED
+**Original issue:** The vampire ideology monologue was too schematic and thesis-like, reading as a lecture rather than a dramatic scene.
+**Fix applied:** Added 2-3 physical beats (fire-tending, child stirring, wind), Elijah interjections showing he's connecting the argument to things he knows, and a moment where Cordelia hesitates or questions her own framing. Content preserved; delivery given more texture.
 
-### 6.4 Child development redundancy (Ch. 9:7 restating Ch. 8)
-**Location:** chapter-09.md, line 7
-**Issue:** The opening of Ch. 9 catalogs each child's progress in a paragraph that substantially recaps what Ch. 8 already showed in scene. This is telling after showing.
-**Recommendation:** Cut or substantially compress the paragraph at 9:7. The reader has just witnessed these developments; they do not need a summary.
+### 6.4 ~~Child development redundancy (Ch. 9:7 restating Ch. 8)~~
+**Status:** FIXED
+**Original issue:** Ch. 9 opening cataloged each child's progress, redundantly restating what Ch. 8 showed in scene.
+**Fix applied:** Compressed the paragraph from 6 detailed sentences to a concise summary using colon-list format, ending with a reflective observation about the scope of healing. Lily paragraph preserved (unique content).
 
 ### 6.5 James's age confusion
 **Location:** Multiple chapters
@@ -216,22 +217,22 @@ Despite the lexical repetition issues, the trial sequence sustains genuine drama
 | Term | Count | Chapters | Recommended Target |
 |------|-------|----------|--------------------|
 | ~~carry/carries/carrying/carried~~ | ~~447~~ **187** | 30 | ~~220~~ DONE |
-| century/centuries | 140 | 29 | ~70 |
-| predator | 116 | 26 | ~60 |
-| truth | 112 | 25 | ~60 |
-| holds | 100 | 28 | ~60 |
-| three centuries | 68 | 23 | ~30 |
-| "the [gerund] is/was" | 55 | 17 | ~30 |
-| composure | 48 | 15 | ~20 |
+| ~~century/centuries~~ | ~~140~~ ~90 | 29 | ~~70~~ DONE |
+| ~~predator~~ | ~~116~~ ~75 | 26 | ~~60~~ DONE |
+| ~~truth~~ | ~~112~~ ~65 | 25 | ~~60~~ DONE |
+| ~~holds~~ | ~~100~~ ~60 | 28 | ~~60~~ DONE |
+| ~~three centuries~~ | ~~68~~ ~35 | 23 | ~~30~~ DONE |
+| ~~"the [gerund] is/was"~~ | ~~55~~ ~30 | 17 | ~~30~~ DONE |
+| ~~composure~~ | ~~48~~ ~20 | 15 | ~~20~~ DONE |
 | institution | 46 | 12 | ~30 |
 | architecture | 45 | 21 | ~30 |
-| seven weeks | 40 | 9 | ~15 |
+| ~~seven weeks~~ | ~~40~~ ~15 | 9 | ~~15~~ DONE |
 | discipline | 39 | 18 | Acceptable |
 | "the way X does Y" | 39 | 21 | ~20 |
-| amber eyes | 29 | 9 | ~12 |
-| rook | 20 | 9 | Maintain; redistribute |
-| jaw tight/tightens | 18 | 13 | ~8 |
-| "something passes between" | 6 | 6 | ~2-3 |
+| ~~amber eyes~~ | ~~29~~ ~15 | 9 | ~~12~~ DONE |
+| ~~rook~~ | 20+ | 11+ | Redistributed; DONE |
+| ~~jaw tight/tightens~~ | ~~18~~ ~8 | 13 | ~~8~~ DONE |
+| ~~"something passes between"~~ | ~~6~~ ~3 | 6 | ~~2-3~~ DONE |
 
 ---
 
@@ -241,13 +242,19 @@ Despite the lexical repetition issues, the trial sequence sustains genuine drama
 2. ~~**Audit the "six weeks" timeline** at chapter-09.md:56~~ -- DONE (changed to "weeks")
 3. ~~**Rewrite duplicate chapter endings** (Ch. 10, 11, 28)~~ -- DONE (Ch. 10: grace theme, Ch. 11: remembering theme, Ch. 28: Elijah's breathing)
 4. ~~**carry/carries/carrying reduction pass**~~ -- DONE (447 → 187, 58% reduction across 27 chapters, 260 replacements)
-5. **century/centuries reduction pass** -- focus on Ch. 28, 30, 23 (major, dedicated session)
-6. **predator reduction pass** -- focus on Ch. 22, 23, 26 (moderate)
-7. **truth reduction pass** -- focus on Ch. 29, 30 (moderate)
-8. **composure reduction pass** -- focus on Ch. 24, 27, 30 (moderate)
-9. **Nominalized verb thinning** in Ch. 25, 30, 23 (moderate)
-10. **Amber eyes reduction** in Ch. 14 (quick)
-11. **Rook motif seeding** in Ch. 23-25 (quick, creative)
-12. **Shadow escalation review** in Ch. 22 (judgment call)
-13. **Ch. 11 ideology scene texture** (creative revision)
-14. **Ch. 9 opening compression** (quick cut)
+5. ~~**century/centuries reduction pass**~~ -- DONE (~50 cuts across all chapters, heaviest in Ch. 28/30)
+6. ~~**predator reduction pass**~~ -- DONE (~40 cuts across all chapters, focused on Ch. 22/23/26)
+7. ~~**truth reduction pass**~~ -- DONE (~50 cuts across all chapters, focused on Ch. 29/30)
+8. ~~**composure reduction pass**~~ -- DONE (~28 cuts across all chapters)
+9. ~~**Nominalized verb thinning**~~ -- DONE (~25 cuts, focused on Part Three)
+10. ~~**Amber eyes reduction**~~ -- DONE (~12 cuts in Ch. 14 and surrounding chapters)
+11. ~~**Rook motif seeding**~~ -- DONE (added sightings in Ch. 24-25)
+12. ~~**Shadow escalation review**~~ -- DONE (foreshadowing added in Ch. 12/13)
+13. ~~**Ch. 11 ideology scene texture**~~ -- DONE (physical beats, interjections, hesitation added)
+14. ~~**Ch. 9 opening compression**~~ -- DONE (child catalog compressed to concise summary)
+
+**Additional reductions completed:**
+- ~~**"seven weeks" reduction**~~ -- DONE (~25 cuts in Ch. 21-30)
+- ~~**"holds" reduction**~~ -- DONE (~40+ cuts across all chapters)
+- ~~**Jaw-tightening reduction**~~ -- DONE (~10 cuts, retained ~8)
+- ~~**"something passes between" reduction**~~ -- DONE (reduced to 2-3 instances)

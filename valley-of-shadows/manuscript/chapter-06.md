@@ -29,10 +29,10 @@ He moves toward us, his arms opening as though to embrace the children, and I fe
 The hunter's voice cuts through the air like a blade. Gransel freezes mid-step, his arms still extended, his expression flickering between confusion and outrage.
 "Hunter, these are our children. Our precious lambs, stolen from their beds by this creature of darkness. Surely you cannot mean to keep them from their families, from the arms of those who love them..."
 "I said stay back."
-The hunter mounts the platform in a single fluid motion, turning to face the crowd. His hand has not left his sword. His eyes move across the gathered faces with the assessing attention of a predator surveying a herd.
+The hunter mounts the platform in a single fluid motion, turning to face the crowd. His hand has not left his sword. His eyes move across the gathered faces with an assessing attention that misses nothing.
 "I was summoned to this village to hunt a demon," he says. His voice carries without effort, reaching every ear in the silent square. "I was told that children had been stolen in the night. That a monster in the woods had taken them for dark purposes. That righteous action was required to save innocent souls from damnation."
 The crowd murmurs agreement. Fragments of prayer, curses directed at me, pleas for swift justice.
-"I found the vampire." The hunter's gaze finds me, holds for a moment, then moves on. "I bound her with holy rites. I compelled her to reveal where she had hidden the children. And I went to that place expecting to find evidence of the monstrosities I have witnessed in my years of hunting creatures of the night."
+"I found the vampire." The hunter's gaze finds me, rests for a moment, then moves on. "I bound her with holy rites. I compelled her to reveal where she had hidden the children. And I went to that place expecting to find evidence of the monstrosities I have witnessed in my years of hunting creatures of the night."
 He pauses. The silence stretches, thick and heavy.
 "What I found instead was seven children bearing the unmistakable marks of ritualistic bloodletting."
 The murmur that rises from the crowd is different now. Confused. Uncertain. I watch faces shift as people try to process words that do not match their expectations.
@@ -73,7 +73,7 @@ A sound rises from the crowd. Not protest. Not agreement. Something more primal,
 Gransel's mouth works. His hands, still trembling, rise in a gesture that might be supplication or might be defense. When his voice finally emerges, it is the voice of a child, small and lost and terrified.
 "I was only doing what my father taught me. What his father taught him. The old ways. The old knowledge. I never meant..."
 "The old ways," the hunter repeats, and something in his tone makes the words sound like a curse. "The old ways that would seek to fill the earth with little bones. The old ways that left seven of your village’s young to die in a cellar while you scrawled letters about demons in the woods." He draws his sword. The blade catches the afternoon light, gleaming with an edge that speaks of careful maintenance and frequent use. "In this village, the old ways end here."
-I should look away. This is a human matter, human justice for human crimes, and I have no place in it. But I cannot turn my gaze from the scene before me. A compulsion holds me fixed, a need to witness what unfolds.
+I should look away. This is a human matter, human justice for human crimes, and I have no place in it. But I cannot turn my gaze from the scene before me. A compulsion roots me in place, a need to witness what unfolds.
 The hunter positions himself beside the kneeling elder. His stance shifts, weight settling, sword rising to the angle I have seen in a hundred executions across my centuries of existence. The hunter has done this before. Maybe dozens or even hundreds of times. The realization strikes me with unexpected force. Dozens of experiences standing as executioner. Dozens of speeches containing the formal words. Dozens of swings of a single blade that follows them.
 "May God have mercy on your soul," he says, "for the law has none to offer."
 The sword descends.
@@ -141,7 +141,7 @@ We walk in silence for a time. The forest deepens around us. The children settle
 "I do not know your name," I say.
 The words surprise me. Not their content; the absence has been a fact since the forest, filed alongside his heartbeat and his stride and the particular way he holds his blade. But the asking is something else. The asking is a choice. I have catalogued a thousand humans without learning their names. Names are unnecessary data for a predator, a detail that serves no function in the assessment of threat or prey. Asking means he has become something my existing categories cannot contain.
 He glances at me. The look is brief, betraying neither surprise nor reluctance, the expression of a man for whom the giving of his name is not a significant gesture. "Elijah."
-Elijah. The name settles into the place where "the hunter" has been, and the settling changes the shape of every observation I have filed since the night he appeared in my forest. The hunter was a category. Elijah is a man. I am not certain when the distinction began to matter, but it matters now, and the mattering is another thing the predator's framework has no protocol to address.
+Elijah. The name settles into the place where "the hunter" has been, and it changes the shape of every observation I have filed since the night he appeared in my forest. The hunter was a category. Elijah is a man. I am not certain when the distinction began to matter, but it matters now, and the mattering is another thing my framework has no protocol to address.
 We walk on, leaving the village behind, carrying its ghosts with us into the darkening forest. The road stretches ahead, winding toward destinations I cannot yet imagine.
 And somewhere at its end, another platform waits.
 Another judgment.
