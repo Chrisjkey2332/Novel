@@ -38,7 +38,7 @@ I note this. The notation requires more space in the record than the observation
 Martha's voice pulls me from my contemplation. She has settled beside me during the midday rest, her sleeves tugged down regardless of the warmth. Her eyes follow mine to where Thomas and Elijah crouch beside a stream, examining something in the mud that has captured the boy's attention.
 "I am observing," I correct, though the distinction feels increasingly hollow. "It is what I do."
 "You watch things," she says. Not an accusation. A statement, delivered with the flatness she uses when she is testing whether a subject is safe to pursue. "All the time. Everything." She pauses. "I used to think it was because you were a predator. Now I think it's something else."
-I wait. Martha scrunches her nose, the way she does when reaching for words that have not quite arrived.
+I wait. Martha scrunches her nose, reaching for words that have not quite arrived.
 "I don't know," she says. "It's just different."
 She has noticed something I had not noticed myself. The observation is imprecise, as a twelve-year-old's observations tend to be, but the instinct beneath it is sharp. She has identified a disparity in my attention without possessing the vocabulary to name it. I consider denying it. But Martha has proven herself an observer too keen for comfortable evasion.
 "I am trying to understand him," I admit. "He believes in something I cannot see, cannot hear, cannot perceive with any sense I possess. And yet his belief does not appear as delusion. It sustains him. It guides him. It makes him something… more."
@@ -71,7 +71,7 @@ Martha has been watching the exchange. When she speaks, her voice is soft, almos
 "Instead they taught you that authority means cruelty," I say quietly. "That power means taking whatever you want from those weaker than yourself."
 "Yeah." The word comes out small, almost a whisper.
 "Elijah is teaching them something different. That strength can be gentle. That power can be used to protect rather than harm." I pause, watching the hunter guide Thomas back toward the group, one hand resting briefly on the boy's shoulder in a gesture of quiet affirmation. "It is a valuable lesson. One I wish more humans would learn."
-Martha is quiet for a moment, chewing on her lip the way she does when she is thinking hard about something.
+Martha is quiet for a moment, chewing on her lip, thinking hard about something.
 "Did your kind... the vampires..." She hesitates, clearly uncertain if she is allowed to ask. "Did they teach you bad things about humans? That we're just... for taking from?"
 The question cuts closer than I would like. I think of the gatherings I attended before my exile. Of the casual cruelty that passed for sophistication among my kind, the competition to demonstrate how little human suffering meant to us.
 "They tried," I say. "I told myself that humans were beneath my concern, that their brief lives and simple minds made them unworthy of consideration."

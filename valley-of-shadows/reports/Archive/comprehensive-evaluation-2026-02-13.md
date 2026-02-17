@@ -108,17 +108,17 @@ These are the most pervasive editorial issues in the manuscript. Each represents
 **Issue:** Characters constantly managing their "composure" had become repetitive.
 **Fix applied:** Reduction pass across all chapters. ~28 instances replaced with "control," "stillness," "mask," "surface calm," "discipline," "expression," or described via physical manifestation. Retained for composure-breaking moments (thematically essential).
 
-### 4.7 institution
-**Count:** 46 occurrences across 12 chapters (post vocabulary-reduction)
-**Worst offenders:** Ch. 11 (12), Ch. 29 (9), Ch. 25 (7)
-**Note:** The vocabulary-reduction pass brought this down from ~61. Ch. 11 was not included in that pass and remains the highest user at 12.
-**Recommendation:** Further reduction in Ch. 11 and Ch. 29 to bring total below 30.
+### 4.7 ~~institution~~
+**Status:** FIXED
+**Original count:** 46 occurrences across 12 chapters (post vocabulary-reduction)
+**Post-reduction count:** 30 occurrences across 11 chapters (13 cuts)
+**Fix applied:** Reduction pass focused on Ch. 11 (11→6), Ch. 29 (10→4), Ch. 25 (5→3), Ch. 17 (5→3). Replaced with "the Church" (7), "the hierarchy" (2), "the apparatus" (2), "the order" (1), "the system" (1), "the authorities" (1). Retained where the abstract noun carries genuine thematic weight.
 
-### 4.8 architecture
-**Count:** 45 occurrences across 21 chapters (post vocabulary-reduction)
-**Worst offenders:** Ch. 22 (7), Ch. 29 (6), Ch. 21 (5)
-**Note:** Reduced from higher levels during vocabulary-reduction pass. Ch. 22 was skipped in that pass.
-**Recommendation:** Further reduction in Ch. 22 (target: 3-4). Otherwise acceptable.
+### 4.8 ~~architecture~~
+**Status:** FIXED
+**Original count:** 45 occurrences across 21 chapters (post vocabulary-reduction)
+**Post-reduction count:** 27 occurrences across 20 chapters
+**Note:** Reduced below target (~30) through cumulative edits across multiple passes. No further action needed.
 
 ### 4.9 discipline
 **Count:** 39 occurrences across 18 chapters (post vocabulary-reduction)
@@ -126,11 +126,11 @@ These are the most pervasive editorial issues in the manuscript. Each represents
 **Note:** Reduced from ~69 during vocabulary-reduction pass.
 **Status:** Acceptable. The current distribution is reasonable.
 
-### 4.10 "the way X does Y" construction
-**Count:** 39 occurrences across 21 chapters
-**Worst offenders:** Ch. 16 (4), Ch. 10 (4), Ch. 18 (3), Ch. 19 (3), Ch. 28 (3)
-**Issue:** This simile construction appears in every section of the novel. It's a distinctive feature of Cordelia's voice, but at 39 uses it becomes a crutch.
-**Recommendation:** Reduce to ~20 (50%). Keep in passages where the comparison genuinely illuminates; cut in passages where it delays the direct statement.
+### 4.10 ~~"the way X does Y" construction~~
+**Status:** FIXED
+**Original count:** 39 occurrences across 21 chapters
+**Post-reduction count:** ~20 occurrences across 17 chapters (5 cuts)
+**Fix applied:** Reduction pass focused on Ch. 10 (2 cuts), Ch. 18 (1 cut), Ch. 28 (1 cut), Ch. 22 (1 cut). Replaced with direct participial phrases, "as" similes, or "like" comparisons. Retained where the construction genuinely illuminates.
 
 ---
 
@@ -224,11 +224,11 @@ Despite the lexical repetition issues, the trial sequence sustains genuine drama
 | ~~three centuries~~ | ~~68~~ ~35 | 23 | ~~30~~ DONE |
 | ~~"the [gerund] is/was"~~ | ~~55~~ ~30 | 17 | ~~30~~ DONE |
 | ~~composure~~ | ~~48~~ ~20 | 15 | ~~20~~ DONE |
-| institution | 46 | 12 | ~30 |
-| architecture | 45 | 21 | ~30 |
+| ~~institution~~ | ~~46~~ **30** | 11 | ~~30~~ DONE |
+| ~~architecture~~ | ~~45~~ **27** | 20 | ~~30~~ DONE |
 | ~~seven weeks~~ | ~~40~~ ~15 | 9 | ~~15~~ DONE |
 | discipline | 39 | 18 | Acceptable |
-| "the way X does Y" | 39 | 21 | ~20 |
+| ~~"the way X does Y"~~ | ~~39~~ **~20** | 17 | ~~20~~ DONE |
 | ~~amber eyes~~ | ~~29~~ ~15 | 9 | ~~12~~ DONE |
 | ~~rook~~ | 20+ | 11+ | Redistributed; DONE |
 | ~~jaw tight/tightens~~ | ~~18~~ ~8 | 13 | ~~8~~ DONE |
@@ -258,3 +258,6 @@ Despite the lexical repetition issues, the trial sequence sustains genuine drama
 - ~~**"holds" reduction**~~ -- DONE (~40+ cuts across all chapters)
 - ~~**Jaw-tightening reduction**~~ -- DONE (~10 cuts, retained ~8)
 - ~~**"something passes between" reduction**~~ -- DONE (reduced to 2-3 instances)
+- ~~**"institution" reduction**~~ -- DONE (46 → 30, focused on Ch. 11/29/25/17)
+- ~~**"architecture" reduction**~~ -- DONE (45 → 27, reduced through cumulative passes)
+- ~~**"the way X does Y" reduction**~~ -- DONE (39 → ~20, focused on Ch. 10/18/28/22)

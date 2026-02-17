@@ -53,7 +53,7 @@ I kneel in the center of them. I do not have a speech prepared. I do not have si
 The accusation is precise and earned and it cuts because it is true. I have no defense against what is true. The binding has taught me that, if nothing else.
 "Yes," I say. "I do. And I am sorry, Thomas. I am sorry that the world is built in such a way that keeping you safe requires me to go where it is not safe, and I am sorry that you are old enough to understand that, and I am sorry that understanding it does not make it hurt less."
 He stares at me. His face works. His hands ball into fists at his sides.
-Then his fists open. He crosses the distance between us and puts his arms around my neck, and the embrace is fierce, angry, the embrace of a child who is furious at the world for taking another thing and has decided that fury is an acceptable form of love. I hold him. I hold him the way I held Moss when he shifted in my arms, carefully, aware that the shape of what I am holding may change at any moment, aware that the only thing I can do is not let go until he is ready.
+Then his fists open. He crosses the distance between us and puts his arms around my neck, and the embrace is fierce, angry, the embrace of a child who is furious at the world for taking another thing and has decided that fury is an acceptable form of love. I hold him. Carefully, as I held Moss when he shifted in my arms, aware that the shape of what I am holding may change at any moment, aware that the only thing I can do is not let go until he is ready.
 "Will you come back?" he asks. The question, again. The blade.
 "I will try."
 "Swear it."
