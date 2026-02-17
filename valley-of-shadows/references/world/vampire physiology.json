@@ -7,13 +7,13 @@
       "Heartbeat": "None",
       "Senses": "Enhanced",
       "Abilities": "Shadow-stepping, mist manipulation, predatory speed and strength",
-      "Vulnerabilities": "Holy water, silver, crucifix proximity"
+      "Vulnerabilities": "Holy water, silver, crucifix proximity, direct sunlight (painful, not immediately fatal)"
     },
     "Under Binding": {
       "Heartbeat": "Forced (artificial, uncomfortable)",
       "Senses": "Diminished to near-human levels",
       "Abilities": "Suppressed entirely",
-      "Physical State": "Vulnerable, weakened, cold affects her",
+      "Physical State": "Vulnerable, weakened, cold affects her, sunlight no longer painful",
       "Duration": "Chapters 2 through 21"
     },
     "After Unbinding": {
