@@ -14,7 +14,7 @@ The command is gentle but firm. Before I can respond, the hunter has guided me t
 "I did not notice."
 "You did not notice you were bleeding?"
 "I have not needed to notice such things for a very long time."
-He pauses in his work, his eyes lifting to meet mine. The moonlight catches the planes of his face, illuminating the thoughtful furrow between his brows. He is trying to understand something, I realize. Trying to construct a model of my existence that makes sense within the framework of his own.
+He pauses in his work, his eyes lifting to meet mine. The moonlight catches the planes of his face, illuminating the thoughtful furrow between his brows. He is trying to understand something, I realize. Trying to construct a model of my existence that makes sense within the framework of his own. Or perhaps I am projecting my own need for understanding onto a face that is simply thinking about how best to transport a prisoner. Reading human expressions across centuries of observation does not mean reading them correctly. It means constructing interpretations and forgetting they are constructions.
 "How long?" he asks.
 "I do not count the years anymore. They blur together after the first few centuries."
 His hands resume their work, wrapping the cloth around my foot with practiced skill. The binding is snug but not tight, protective without restricting movement. He has done this before, I think. Tended wounds in the field, perhaps for himself, perhaps for others. The care he takes suggests the latter.
@@ -46,7 +46,7 @@ The hunter moves to stand beside me, his eyes examining the entrance, the large 
 "A place to eat your meals quietly."
 "Yes."
 He waits, perhaps expecting me to continue, to explain, to offer some justification for what I have done. But the binding only compels honesty in response to questions, and he has not asked why. He has only stated what is.
-I do not volunteer the rest. Let him see for himself. Let him form his own conclusions when he looks upon what I have kept hidden in the darkness.
+I do not volunteer the rest. Let him see for himself. Let him form his own conclusions when he looks upon what I have kept hidden in the darkness. I tell myself I am withholding information strategically, that letting him see the truth unmediated will serve my case better than any explanation. But there is another possibility I do not wish to examine: that what I believe I have done and what I have actually done might not be the same thing. That a creature who had never cared for human young might have accomplished less than she imagined.
 The hunter steps forward and places his hands against the large stone. His muscles bunch beneath his cloak as he pushes, and the stone gives way with a grinding protest, revealing the mouth of the tunnel beyond.
 The smell that emerges is immediate and overwhelming. Damp stone and old blood and the particular scent of bodies that have been too long in darkness. I see the hunter's reaction: the flare of his nostrils, the tension that crosses his face, the way his hand moves instinctively to the crucifix at his throat.
 "What have you done?" The question is low, dangerous, the voice of a man who believes he already knows the answer.
