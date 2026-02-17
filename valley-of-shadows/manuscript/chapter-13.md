@@ -76,7 +76,7 @@ I stop, my hand catching Elijah's arm before my mind has fully processed what my
 "Smoke," I say. "Fresh smoke. Not the old ash from the village. Something burning now. Ahead, perhaps half a league." I test the air again, pulling the scent apart into its components. "Wood smoke. Pine, mostly. And meat. Something is cooking."
 "The wolves?"
 "Wolves do not cook."
-The smoke carried the scent of cooked meat, or something that resembled it. In the mountain air, with the binding dragging at my senses, I could not be certain the smell was not my own hunger reshaping the evidence into something I wanted to find. But the implication settles between us like a stone dropped into still water. Werewolves do not cook. Werewolves do not build fires.
+The smoke carries the scent of cooked meat, or something that resembles it. In the mountain air, with the binding dragging at my senses, I cannot be certain the smell is not my own hunger reshaping the evidence into something I want to find. But the implication settles between us like a stone dropped into still water. Werewolves do not cook. Werewolves do not build fires.
 "They have stopped," I say. "The scent trail ends ahead. The children are there. I can smell them. All of them."
 "All seven?"
 I reach, straining against the binding's weight, pushing my senses further than the crucifix wants to allow. The effort is physical, a pressure behind my eyes, a tightness in my temples that warns of limits I am approaching too quickly.

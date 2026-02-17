@@ -78,7 +78,7 @@ Elijah's expression hardens. I watch the information land, watch it collide with
 The words hang in the smoke-heavy air, and the silence that follows them is the silence of a wound being opened. Sera's composure does not crack. But something moves behind her eyes, quick and hot and tightly contained, and I watch her body make a decision about how to arrange itself before she speaks. The shift is subtle, a squaring of the shoulders, a lifting of the chin. The posture of someone preparing her version of events.
 I recognize the posture. I have used it myself.
 "No," she says. "We did not."
-Something flickered in her face when she said *we did not.* Not guilt. Not deception. Something more like the expression of a person who believes what they are saying but who knows that the truth they believe is not the entire truth, and who has decided that the portion they are withholding is their right to keep.
+Something flickers in her face when she says *we did not.* Not guilt. Not deception. Something more like the expression of a person who believes what they are saying but who knows that the truth they believe is not the entire truth, and who has decided that the portion they are withholding is their right to keep.
 "I examined the evidence myself. Claw marks consistent with werewolf attack. Tracks surrounding the settlement. Bodies bearing wounds that no human weapon could inflict."
 "You found what you were meant to find." Her voice has not risen. If anything, it has dropped, growing quieter with each word. "Claw marks scored into stone. Tracks pressed into mud. A story written for men who already knew how to read it."
 "That is not an answer."

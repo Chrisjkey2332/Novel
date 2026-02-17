@@ -29,7 +29,7 @@ The shimmer of a silver-tipped arrow catches my eye. The familiar scent of bless
 Ah. One of those.
 A hunter.
 A smile of amusement crosses my lips. They keep coming, these humans with their arrows and their oil. I have evaded a dozen such hunters in my time, watched them blunder through the darkness while I moved unseen above their heads. The pattern repeats endlessly: they arrive with their weapons and their prayers, they search, they find nothing, they leave. Or they find me, and they do not leave at all.
-This one moves differently than the others. There is no hesitation in his step, no fearful scanning of the shadows. He walks as though he knows exactly where he is going, as though the forest keeps no mysteries from him. His eyes (I cannot see their color from this distance) but I can see the way they move, tracking details, reading signs I have left without meaning to.
+This one moves differently than the others. There is no hesitation in his step, no fearful scanning of the shadows. He walks as though he knows exactly where he is going, as though the forest keeps no mysteries from him. His eyes — I cannot see their color from this distance — move with a hunter's attention, tracking details, reading signs I have left without meaning to.
 Interesting.
 I shift my position, moving silently from branch to branch, circling to observe him from a different angle. His cloak bears no insignia I recognize, but the crucifix at his throat catches the moonlight, unmistakable. A man of faith, then. They are often the most dangerous kind, not because their weapons are sharper, but because their certainty makes them unpredictable.
 He stops in a clearing below me, tilting his head as though listening. For a moment, I think he has sensed me, but his attention seems directed elsewhere. He kneels, examining something on the ground, tracks, perhaps, or the disturbance left by my last hunt. His fingers trace the earth with practiced familiarity.
@@ -39,7 +39,7 @@ And yet.
 "Name thyself, demon, in the name of the Lord thy God!"
 The voice is deep, unwavering. It echoes through the trees, startling a flock of roosting birds into panicked flight. He speaks to the air, to the shadows, to whatever he believes lurks in the darkness around him. His eyes are still moving, still searching, but his words carry the force of absolute conviction.
 They always do, the faithful ones. They speak to their invisible God as though He might answer, as though the empty air contains something other than silence. I have watched humans practice faith for longer than most of their civilizations have existed, and it still makes no sense to me. The air never responds. Or if it does, the response takes a form I have not learned to recognize.
-Perhaps it is a form of ritualized comfort, like a cat kneading a blanket.
+Perhaps it is a form of ritualized comfort, a gesture that soothes the one who performs it regardless of whether it reaches the intended recipient.
 I consider my options. I could remain hidden, wait for him to give up his search and move on. He cannot find me if I do not wish to be found. The forest is vast, and I know its secrets better than any human ever could.
 But the way he moves. The certainty in his voice. The steadiness of his heartbeat when it should be racing with fear.
 I want to know what makes this one different.
