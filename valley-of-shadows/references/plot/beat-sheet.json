@@ -13,7 +13,7 @@
       "order": 2,
       "title": "The Children Revealed",
       "chapters": "3-5",
-      "description": "Under compulsion, Cordelia leads Elijah to the caves where she has been keeping abducted human children. Elijah expects to find corpses. Instead he finds living children, malnourished because Cordelia has been feeding them animal blood, not understanding human needs. Flashbacks reveal Cordelia's three weeks of confused caregiving. Elijah discovers the children bear scars of ritualistic bloodletting, redirecting his fury from Cordelia to whoever harmed them.",
+      "description": "Under compulsion, Cordelia leads Elijah to the caves where she has been keeping abducted human children. Elijah expects to find corpses. Instead he finds living children, malnourished because Cordelia has been feeding them animal blood, not understanding human needs. Flashbacks reveal Cordelia's ten days of confused caregiving. Elijah discovers the children bear scars of ritualistic bloodletting, redirecting his fury from Cordelia to whoever harmed them.",
       "characters": ["Cordelia", "Elijah", "Martha", "Thomas", "Lily", "the children"],
       "tension": "The twist that reframes everything. Cordelia is not a predator but a failed rescuer. Elijah's certainties begin to crack."
     },
@@ -52,25 +52,25 @@
     {
       "order": 7,
       "title": "The Nature of Monsters",
-      "chapters": "18-22",
-      "description": "The mountain pass brings encounters that complete the spectrum of monstrosity. Gremlin-like creatures: not evil, just animals. The debate about what makes a monster. Then the wendigo: a human who chose to become a monster, representing true unambiguous evil. Cordelia sacrifices herself as bait. The crucifix flares with warm holy light. Both are gravely wounded. Two weeks of healing follow, during which both share their full backstories. Cordelia stops asking Elijah to escape. He notices.",
+      "chapters": "18-22 (with healing aftermath and backstory exchanges distributed across 23-25)",
+      "description": "The mountain pass brings encounters that complete the spectrum of monstrosity. Gremlin-like creatures: not evil, just animals. The debate about what makes a monster. Then the wendigo: a human who chose to become a monster, representing true unambiguous evil. Cordelia sacrifices herself as bait. The crucifix flares with warm holy light. Both are gravely wounded. The healing period and shared backstories that complete this beat extend into the early Part Three chapters (23-25), structurally serving as a bridge to the Holy See arrival. Cordelia stops asking Elijah to escape. He notices.",
       "characters": ["Cordelia", "Elijah"],
       "tension": "The full spectrum of monstrosity explored. The wendigo battle is the physical climax. The healing period is the emotional climax of their relationship. The fifth attempt is silence."
     },
     {
       "order": 8,
       "title": "The Holy See",
-      "chapters": "23-26",
-      "description": "The city of gold and marble rises before them. Opulence built on suffering. Cordelia is imprisoned in cells that hum with holy power. Elijah visits, but every visit is interrupted by petty summons and systematic humiliation. The men who exiled him reveal themselves as small, cruel men who hate him for his integrity. Cordelia watches helplessly as Elijah is broken by a thousand cuts.",
+      "chapters": "26-27",
+      "description": "The city of gold and marble rises before them (Ch. 26). Opulence built on suffering. Cordelia is imprisoned in cells that hum with holy power. Elijah visits (Ch. 27), but every visit is interrupted by petty summons and systematic humiliation. The men who exiled him reveal themselves as small, cruel men who hate him for his integrity. Cordelia watches helplessly as Elijah is broken by a thousand cuts, his weapons confiscated, his frontier leather replaced with a borrowed clerical robe.",
       "characters": ["Cordelia", "Elijah", "Cardinal Marcellus", "clergy"],
       "tension": "The institutional corruption made visceral. Elijah's degradation shown through Cordelia's horrified perspective. The trap they walked into becomes clear."
     },
     {
       "order": 9,
       "title": "Blood and Cages",
-      "chapters": "27-28",
-      "description": "Cordelia's sister arrives as an emissary from vampire society, offering return and safety. Cordelia refuses: 'I have been alive for a very long time, sister. It is not the same as living.' Both protagonists are now explicitly trapped by parallel systems. Vampire society and the Church are the same cage wearing different faces.",
-      "characters": ["Cordelia", "The Sister", "Elijah"],
+      "chapters": "28",
+      "description": "Seraine, Cordelia's maker-sister, arrives as an emissary from vampire society, offering return and safety under Compact Section 12. Cordelia refuses, articulating that vampire society is also a cage, just one designed by people who understand what she is. Both protagonists are now explicitly trapped by parallel systems. Vampire society and the Church are the same cage wearing different faces.",
+      "characters": ["Cordelia", "Seraine", "Elijah"],
       "tension": "Cordelia must articulate why she left and why she cannot return. The mirror between vampire society and the Church becomes explicit. Both exiles are being punished for the same crime: conscience."
     },
     {

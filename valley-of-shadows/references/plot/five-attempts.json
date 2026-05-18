@@ -1,47 +1,53 @@
 {
   "topic": "The Five Attempts",
-  "description": "Cordelia's five attempts to convince Elijah to abandon his mission. Each escalates in emotional investment, tracking her transformation from self-interest to genuine care.",
+  "description": "Cordelia's persuasion arc — five distinct moments where she tries (in increasingly raw form) to dissuade Elijah from his mission. Each escalates in emotional investment, tracking her transformation from self-interest to genuine care. The arc as executed in the manuscript differs in form from a strict five-dialogue-exchanges structure: Attempt 1 is interior rather than dialogic, and the explicit verbal attempts cluster as 2-3-4 with the silence of Attempt 5 as confirmation.",
   "attempts": [
     {
       "number": 1,
       "chapter": 9,
-      "type": "The Practical Argument",
-      "cordelia": "You know they will execute me. Why waste your time escorting a corpse?",
-      "elijah": "You will receive a trial. That is more than most of your kind offer their victims.",
-      "subtext": "She is testing him, seeing if he wants her dead."
+      "type": "The Interior Test",
+      "form": "Internal musing surfaced into a question",
+      "cordelia": "(Interior) 'I could lose myself in the forest. I have done it before.' / (Aloud) The forest does call. It has called since the binding.",
+      "elijah": "Could you, though? Lose yourself entirely? After what you have done for them?",
+      "subtext": "She is testing herself, not him. The first articulation of the choice she has not yet realized she is making. The form is interior rather than the practical execution-argument the outline originally specified; the manuscript renders the attempt as Cordelia's self-examination under Elijah's gentle pressure."
     },
     {
       "number": 2,
       "chapter": 11,
-      "type": "The Freedom Argument",
-      "cordelia": "You have seen how they frame the innocent. You have seen how little truth matters to power. And you still believe a trial will be just?",
+      "type": "The Freedom Argument (the jokes/tropes pivot)",
+      "form": "Ridge-viewpoint dialogue with parallel structure (Bishop's fall ↔ vampire society's fall)",
+      "cordelia": "If a single village elder can corrupt an entire community, what chance does honesty have before a tribunal of corrupt institutions?",
       "elijah": "I believe it must be attempted.",
-      "subtext": "She is genuinely confused by his faith in a system that failed him."
+      "subtext": "She is genuinely confused by his faith in a system that failed him. The strongest of the four explicit attempts — the parallel between vampire society and the Church becomes the thematic spine of the manuscript here."
     },
     {
       "number": 3,
-      "chapter": 15,
+      "chapter": 14,
       "type": "The Personal Appeal",
-      "cordelia": "Come with me. Not forever, just away. You could do more good in a year of hunting than a lifetime of serving those men.",
-      "elijah": "I serve God, not men.",
-      "subtext": "She is starting to care about his fate, not just her own."
+      "form": "Layered on top of the Sera-interrogation climax — the third attempt arrives as Elijah is processing the manuscript's central institutional-corruption reveal",
+      "cordelia": "Come with me, Elijah. Leave them. Leave the See, and the Church, and the men who send soldiers to burn villages and blame the ashes on the people they've driven from their homes.",
+      "elijah": "I cannot. Not because you are wrong. But because leaving would mean they win.",
+      "subtext": "She is starting to care about his fate, not just her own. (Migrated from the originally-planned Ch. 15 to land at Ch. 14's reveal-driven moment.)"
     },
     {
       "number": 4,
-      "chapter": 18,
+      "chapter": 19,
       "type": "The Desperate Argument",
-      "cordelia": "You are a good man, Elijah. Perhaps the only one I have met. And they will destroy you for it, just as they will destroy me. We could live. We could matter.",
-      "elijah": "I matter now. This matters. What we are doing, the children safe, the truth carried forward, it matters.",
-      "subtext": "She is offering him everything she wishes someone had offered her when she left vampire society."
+      "form": "Skerren-pass aftermath at the fire — layered with the Shepherd-name reveal so the attempt and the accusation arrive together",
+      "cordelia": "Come with me. You are better than the system you serve.",
+      "elijah": "(The Shepherd reveal: Elijah is the system's instrument. The attempt and the accusation arrive in the same scene.)",
+      "subtext": "She is offering him everything she wishes someone had offered her when she left vampire society. The most dramatically pressurized of the four. (Migrated from the originally-planned Ch. 18.)"
     },
     {
       "number": 5,
-      "chapter": 22,
+      "chapter": "22-23",
       "type": "The Silence",
+      "form": "She stops asking — the silence after the wendigo and the choosing-not-to-leave on the ridge",
       "cordelia": null,
-      "elijah": null,
-      "subtext": "She stops asking. He notices. She has accepted something: her fate, his choice, or both."
+      "elijah": "(Notices.)",
+      "subtext": "She has accepted something: his fate, her own, or both. The fifth attempt is the absence of the fourth. The choice-to-stay on the ridge in Ch. 23 confirms it."
     }
   ],
-  "thematicFunction": "The five attempts track Cordelia's transformation from detached self-interest to genuine love for another person's wellbeing. Each attempt reveals more about her emotional state than about her argument."
+  "thematicFunction": "The five attempts track Cordelia's transformation from detached self-interest to genuine love for another person's well-being. Each reveals more about her emotional state than about her argument. The manuscript's version differs from a strict five-dialogue structure: Attempt 1 is interior, Attempt 5 is silence, and the load-bearing verbal moments are 2-3-4. The arc as executed is artistically more sophisticated than a literal five-exchanges plan would have been.",
+  "outlineDriftNote": "Original planning targeted Attempts at Chs. 9, 11, 15, 18, 22 as discrete dialogue exchanges. Manuscript places them at Chs. 9 (interior), 11, 14, 19, 22-23 (silence). The form of Attempts 1 and 5 also differs from the original plan. This is execution outpacing the outline — the manuscript is canonical."
 }

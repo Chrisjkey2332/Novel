@@ -1,13 +1,20 @@
 {
   "name": "Seraine",
-  "role": "Minor Character",
-  "description": "Cordelia's maker. Appears in Chapter 28 with no prior mention in the manuscript.",
-  "backstory": "The vampire who turned Cordelia. The nature of their relationship is not fully established in the current draft.",
-  "motivation": "Unknown in current draft.",
-  "arc": "Appears at the Holy See in Chapter 28. Her arrival is currently too abrupt and needs foreshadowing in earlier chapters.",
-  "traits": [],
+  "role": "Supporting Character",
+  "description": "Cordelia's maker-sister. They share the same maker but are not blood-related. Now an emissary from vampire society. Tall, slender, dark hair, carries the calibrated polish of a creature who has spent three centuries learning to make her presence felt without raising her voice.",
+  "backstory": "Made by the same maker as Cordelia. Three centuries of shared history: the turning, the first years, the maker's house, the decades of proximity. Where Cordelia chose the margin (exile in the forest), Seraine chose the center (vampire politics). She has become exactly what the system required: a diplomat who navigates the intersection of human and vampire authority. She sat three seats from Cordelia at the council that condemned her (Ch. 1) and did not meet her eyes.",
+  "motivation": "To bring Cordelia home under Compact Section 12 (a transfer of jurisdiction from human courts to vampiric authority). Whether this is genuine sisterly care or political calculation is ambiguous; the manuscript leaves both readings open.",
+  "arc": "Appears at the Holy See cell (Ch. 28) offering Cordelia an alternative cage: return to vampire society under the Compact's transfer mechanism. Beautiful walls, familiar faces, but a cage. Forces Cordelia to articulate that 'understanding what I am is not the same as understanding who I am.' Departs without changing the outcome.",
+  "traits": [
+    "politically savvy",
+    "calibrated affect (genuine warmth measured as a jeweler calibrates a scale)",
+    "represents the path Cordelia rejected",
+    "ambiguous motivations",
+    "three centuries of shared history with Cordelia"
+  ],
   "relationships": {
-    "Cordelia": "Her maker. A three-hundred-year relationship that is conspicuously absent from Cordelia's internal monologue until Chapter 28."
+    "Cordelia": "Maker-sister (shared maker). Three centuries of proximity, then distance after Cordelia chose exile and Seraine chose the center."
   },
-  "qualityNote": "NEEDS WORK: Seraine appears in Chapter 28 with no prior mention. Brief references (memories, comparisons, moments where Cordelia thinks of her turning or her maker) should be added in at least two earlier chapters to prepare the reader."
+  "keyDialogue": "'You look unwell. The binding. The holy power in these walls. You must be in constant pain.' / 'I am here to make it stop.' / 'And this is not a cage? This is a cage designed by people who consider your existence an abomination. My cage, at least, would be designed by people who understand what you are.' / Cordelia (refusing): 'You are offering me a cage, Seraine. A beautiful cage, with familiar walls and a sister who loves me as much as the system permits. But a cage.' / Cordelia: 'Understanding what I am is not the same as understanding who I am.'",
+  "earlierMentions": "Ch. 1 line 12 establishes her at the council that condemned Cordelia: 'my own sister who sat three seats from mine, showed no resistance, her face carrying the same serene composure it had carried for two centuries.' This is the manuscript's foreshadowing; her arrival in Ch. 28 is not unprepared."
 }

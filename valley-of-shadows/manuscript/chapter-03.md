@@ -2,55 +2,72 @@
 The forest I once ruled now watches me with indifferent eyes.
 Every step is a small humiliation. My bare feet, which moved over roots and stones without thought for centuries, now feel every sharp edge, every cold surface, every rough patch of bark that scrapes against tender skin. The crucifix pulses at my throat with each heartbeat, my heartbeat, that strange new rhythm I cannot seem to silence, and the weight of it drags at me like chains.
 The hunter walks beside me, not behind. I expected him to drive me forward like cattle, to keep his weapons trained on my back, to treat me as the prisoner I am. Instead, he matches his pace to mine, shortening his stride to accommodate my weakened legs. The consideration unsettles me more than cruelty would have.
-"How far?" he asks.
-"Perhaps half a league. The caves are near the river."
+“How far?” he asks.
+“Perhaps half a league. The caves are near the river.”
 He nods and says nothing more. The silence between us fills with the sounds of the forest: the rustle of small creatures in the underbrush, the distant call of an owl, the whisper of wind through branches I can no longer leap between. These sounds were once a language I spoke fluently. Now they are merely noise, stripped of meaning, as foreign as the weakness that has settled into my bones.
-"You are limping."
-The hunter's voice breaks through my thoughts. I look down at my feet and discover that he is correct. I am favoring my left leg, compensating for a cut I do not remember receiving. Blood seeps from a gash on my sole, dark against the pale skin, and the sight of it triggers something I have not felt in centuries.
+What he hears, I once heard with finer instruments. The owl two ridges away. The badger turning in its sett. The fox’s slow bleed-out half a league southwest. Now I hear only what he hears: the wind, the leaves, the cracking of twigs beneath our feet. The reduction is total. The crucifix has not merely bound my powers; it has stripped my apparatus of perception, leaving me with the senses a human possesses by default, which is to say almost nothing, which is to say the world has narrowed to a corridor and the corridor is the road in front of me and the road is what I can see and the seeing is all there is.
+I had forgotten that this is how they live. The speaking peoples. The ones I have moved among for centuries, observing their politics and their wars and their endless small dramas, and I had assumed, somehow, that they perceived the world as I perceived it, that the silence between us was the silence of creatures with similar instruments who simply chose to speak of different things. The assumption was wrong. They live inside a thimble. They have always lived inside a thimble. And I have rejoined them.
+The hunter does not slow further. He does not need to. He has been walking at this pace his entire life.
+“You are limping.”
+The hunter’s voice breaks through my thoughts. I look down at my feet and discover that he is correct. I am favoring my left leg, compensating for a cut I do not remember receiving. Blood seeps from a gash on my sole, dark against the pale skin, and the sight of it triggers something I have not felt in centuries.
 Pain. Not the abstract awareness of damage that my kind experiences, but actual pain, the sharp insistent signal that something is wrong and must be addressed. The sensation is so novel that I stop walking simply to examine it, watching the blood well up with something approaching fascination.
-"Sit."
+“Sit.”
 The command is gentle but firm. Before I can respond, the hunter has guided me to a fallen log and is kneeling before me, his hands reaching for my injured foot with a matter-of-factness that leaves me speechless. He produces a cloth from somewhere in his cloak and begins cleaning the wound, his movements efficient and impersonal.
-"You should have said something," he says without looking up. "Walking on an open wound invites infection."
-"I did not notice."
-"You did not notice you were bleeding?"
-"I have not needed to notice such things for a very long time."
+“You should have said something,” he says without looking up. “Walking on an open wound invites infection.”
+“I did not notice.”
+“You did not notice you were bleeding?”
+“I have not needed to notice such things for a very long time.”
 He pauses in his work, his eyes lifting to meet mine. The moonlight catches the planes of his face, illuminating the thoughtful furrow between his brows. He is trying to understand something, I realize. Trying to construct a model of my existence that makes sense within the framework of his own. Or perhaps I am projecting my own need for understanding onto a face that is simply thinking about how best to transport a prisoner. Reading human expressions across centuries of observation does not mean reading them correctly. It means constructing interpretations and forgetting they are constructions.
-"How long?" he asks.
-"I do not count the years anymore. They blur together after the first few centuries."
+“How long?” he asks.
+“I do not count the years anymore. They blur together after the first few centuries.”
 His hands resume their work, wrapping the cloth around my foot with practiced skill. The binding is snug but not tight, protective without restricting movement. He has done this before, I think. Tended wounds in the field, perhaps for himself, perhaps for others. The care he takes suggests the latter.
-"Centuries," he repeats, and the word carries weight I cannot quite parse. "And in all that time, you have fed on how many?"
-The question lands like a blow. I feel the crucifix pulse at my throat, the binding's compulsion wrapping around my words, and I must answer truthfully even though the answer will damn me further in his eyes.
-"I do not keep count. It would be like counting meals."
+I have lived three hundred years without this sensation. Without the small, insistent voice of the body announcing that something has gone wrong and must be addressed. My kind do not feel pain in this way. We feel damage, the awareness of compromise to the structure, the cataloguing of a wound the body will repair before the next dawn. We do not feel the wound itself. We do not feel the burn of a cut as a thing demanding immediate attention. We file it. We continue.
+The hunter ties off the binding. His hands work with the deliberateness of a man who has bound many wounds, and the binding is neither tight nor loose but exactly what the wound requires, and the wound, ridiculous, embarrassing, a cut on the sole of a foot, throbs with a steady persistence that the predator’s catalogue cannot reduce to data. The throbbing is the data. The body is reporting itself to me, and I have forgotten how to listen.
+I remember the first night I was made. Three centuries ago. The maker’s house, the windows open, my body learning the new shape of itself. The hunger came first. The cold of skin that no longer generated warmth. The strange, hollow place where my heartbeat had been, the silence of a chest that had spent its early years thrumming with the small motor of human existence. I remember the maker’s hand on my shoulder. The careful, patient introduction to a body that no longer required what bodies require.
+I am being introduced again. To a body that requires what I have not given it in three hundred years. The hunger is different now. The hunger is plural.
+“Centuries,” he repeats, and the word carries weight I cannot quite parse. “And in all that time, you have fed on how many?”
+The question lands like a blow. I feel the crucifix pulse at my throat, the binding’s compulsion wrapping around my words, and I must answer truthfully even though the answer will damn me further in his eyes.
+“I do not keep count.”
 His jaw tightens. Disgust. He controls the expression quickly, but I have a lifetime of reading human faces, and disgust is unmistakable. He finishes binding my foot and rises, not offering his hand this time.
-"We should continue."
-We resume our journey. The path grows steeper as we approach the river, the terrain shifting from soft forest floor to rocky outcroppings slick with moss. I stumble twice, my weakened body betraying me, and both times the hunter's hand is there to steady me before I fall. He does not comment on my clumsiness. He does not mock or berate. He simply keeps me moving forward, one step at a time, toward the place where the little bodies wait.
+“We should continue.”
+We resume our journey. The path grows steeper as we approach the river, the terrain shifting from soft forest floor to rocky outcroppings slick with moss. I stumble twice, my weakened body betraying me, and both times the hunter’s hand is there to steady me before I fall. He does not comment on my clumsiness. He does not mock or berate. He simply keeps me moving forward, one step at a time, toward the place where the little bodies wait.
 My stomach turns at the thought of what approaches. The hunter will see them. He will see what I have done, and he will draw his conclusions.
 But beneath the fear for my own fate, something else gnaws at me, an ache beneath my ribs that has nothing to do with hunger and everything to do with what I have come to know in the darkness. I push the feeling aside.
-"You are afraid."
-The hunter's voice cuts through my spiraling thoughts. I glance at him, startled by his perception, and find his eyes already on my face.
-"The crucifix compels truth," he continues. "I see it in you even when you do not speak. Your fear is written in every line of your body."
-"I am being led to my death. Fear seems an appropriate response."
-"That is not what you fear." His gaze is steady, assessing, the look of a man who has spent years reading the creatures he hunts. "Or at least, not all of it. There is something else. Something about what waits in those caves."
+The ache is not new. It has been with me for ten days, since the night I first found the cellar and the small bodies inside it. I have been calling it many things. Strategic concern, because seven living children might serve as currency in some future negotiation I had not yet imagined. The predator’s curiosity, because a vampire who feeds on humans had never before fed on children too young to provide proper sustenance and had never considered, until those ten days, why this was so. The simple reflex of a creature confronted with damage it could not reverse, the way one might wince at a broken thing whose breaking served no purpose. I have constructed reasons for the ache. I have arranged them on the shelf of my long memory the way I arrange everything that requires categorization: efficiently, without examination, in the precise location its label assigns.
+But the ache does not stay in its location. The ache moves. The ache moves when I think of the smallest girl, the one who will not speak, whose hand finds mine in the dark with the desperate, instinctive grip of a creature that has learned that hands can be taken away. The ache moves when Martha asks me a question and waits for the answer, and the waiting carries the particular weight of a child who has not been answered before. The ache moves when I lie beside the children in the dark and count their breaths and find, in the counting, that the counting is not assessment. The counting is something else. The counting is, perhaps, what I imagine humans do when they have something to lose.
+I have never had something to lose. The predator does not lose. The predator selects, and consumes, and continues. The category itself is foreign to my architecture. And yet the ache persists, and the ache does not match any other ache I have known, and the ache is the thing the hunter has just named without naming, the thing that registers in my body as fear and is not, I am beginning to suspect, only fear.
+“You are afraid.”
+The hunter’s voice cuts through my spiraling thoughts. I glance at him, startled by his perception, and find his eyes already on my face.
+“The crucifix compels truth,” he continues. “I see it in you even when you do not speak. Your fear is written in every line of your body.”
+“I am being led to my death. Fear seems an appropriate response.”
+“That is not what you fear.” His gaze is steady, assessing, the look of a man who has spent years reading the creatures he hunts. “Or at least, not all of it. There is something else. Something about what waits in those caves.”
 I want to deny it. I want to construct some plausible alternative, some explanation that will satisfy his curiosity without revealing the tangled knot of emotion I cannot untangle myself. But the binding pulses, and the lie will not take shape, my mouth refusing to form words that are not true.
-"I do not know what you will conclude," I say instead, choosing truth that reveals nothing.
-"You took children from their homes. What conclusion would you have me draw?"
+“I do not know what you will conclude,” I say instead, choosing truth that reveals nothing.
+“You took children from their homes. What conclusion would you have me draw?”
 The question hangs between us, heavy with implication. I know what he expects. I know what any reasonable person would expect. A vampire who has stolen children, who has kept them hidden in caves for days and cannot account for their condition or their fate. The conclusion writes itself.
-"Draw whatever conclusion you will," I say. "I cannot stop you."
-"No. You cannot."
-We walk in silence after that. The path narrows as we approach the river, and I take the lead because I am the only one who knows the way.
+“Draw whatever conclusion you will,” I say. “I cannot stop you.”
+“No. You cannot.”
+We walk in silence after that. The small creatures that populate this stretch fall silent at our passage as small creatures always fall silent before the presence of predators. I cannot tell whether they are silent for the hunter or for me. The distinction would have been obvious to me a week ago. Now it is not.
+The mathematics arrive without my permission. They have always arrived without my permission, the way breath arrives in a body that requires breath. The predator’s calculation runs even when the predator cannot act: the mathematics of his weight, his reach, the precise angle at which I would have had to strike to clear his sword arm if the silver at my throat were not there. The mathematics do not consider the cellar. The mathematics do not consider Martha or the smallest girl or any of the seven small breaths waiting in the dark. The mathematics are the predator’s mathematics, and the predator does not consider what serves no purpose.
+The crucifix pulses. The mathematics dissolve.
+And the question that surfaces in their absence, sharp, unsettling, is the question I do not want to ask: would I have struck? With my powers fully returned, with the canopy open, with the road stretching toward seven children whose continued existence depends on my arrival, would the mathematics have completed themselves into action? I do not know. The not-knowing sits in my chest beside the ache, and the two do not cancel. The two are, perhaps, the same thing.
+The path narrows as we approach the river, and I take the lead because I am the only one who knows the way.
 The cave mouth appears suddenly, a deeper darkness against the general gloom. I stop at its threshold, my heart pounding, my hands trembling.
-"Here," I say. "They are inside."
+“Here,” I say. “They are inside.”
 The hunter moves to stand beside me, his eyes examining the entrance, the large stone that partially conceals the passage beyond. He notes the way the rock has been positioned, the care taken to hide the opening from casual observation.
-"You have done this before," he says. "Hidden things in caves."
-"I have existed for centuries. One learns to prepare shelters, caches, places to retreat when danger comes." I pause, watching his face in the dim light. "This cave was meant to be a sanctuary. When I found it, an old oak door had been wedged into a natural narrowing deeper within, left there by some previous occupant whose bones I never found. I reinforced the hinges, fitted it more securely into the passage. I did not expect to bring anyone else here."
-"A place to eat your meals quietly."
-"Yes."
+“You have done this before,” he says. “Hidden things in caves.”
+“I have existed for centuries. One learns to prepare shelters, caches, places to retreat when danger comes.” I pause, watching his face in the dim light. “This cave was meant to be a sanctuary. When I found it, an old oak door had been wedged into a natural narrowing deeper within, left there by some previous occupant whose bones I never found. I reinforced the hinges, fitted it more securely into the passage. I did not expect to bring anyone else here.”
+I do not say what I do not say. I have used this cave before. Many decades ago. A traveling merchant, alone on a road I had been watching for weeks, his cart axle broken in the worst place for a man traveling alone to be broken. I helped him. I sat beside him at his small fire while he repaired the axle, and I let him talk because talkers are easier to take, and when his work was done I led him through the trees to this cave because the cave was nearer than the village and the village would have asked questions. He went into the cave first. I followed.
+What happened in the cave is not relevant to what is happening now. The merchant has been bones for longer than the moss has needed to cover the stain. The cave forgets what is brought into it, the way the forest forgets, the way three centuries of habit have taught me to forget the things I have done because remembering serves no purpose and predators do not engage in purposeless acts.
+But the cave is the cave. And what I brought here ten days ago was not a man with a broken axle. And what is in the cave now has not been forgotten by the cave or by me. And the hunter is about to open the door, and I do not know which version of this place he will find behind it: the place that holds the merchant’s bones, the place that holds seven children breathing in the dark, or some third place I have not yet been given language for, the place where a predator has begun to maintain something it has no architecture to name.
+“A place to eat your meals quietly.”
+“Yes.”
 He waits, perhaps expecting me to continue, to explain, to offer some justification for what I have done. But the binding only compels honesty in response to questions, and he has not asked why. He has only stated what is.
 I do not volunteer the rest. Let him see for himself. Let him form his own conclusions when he looks upon what I have kept hidden in the darkness. I tell myself I am withholding information strategically, that letting him see the truth unmediated will serve my case better than any explanation. But there is another possibility I do not wish to examine: that what I believe I have done and what I have actually done might not be the same thing. That a creature who had never cared for human young might have accomplished less than she imagined.
 The hunter steps forward and places his hands against the large stone. His muscles bunch beneath his cloak as he pushes, and the stone gives way with a grinding protest, revealing the mouth of the tunnel beyond.
-The smell that emerges is immediate and overwhelming. Damp stone and old blood and the particular scent of bodies that have been too long in darkness. I see the hunter's reaction: the flare of his nostrils, the tension that crosses his face, the way his hand moves instinctively to the crucifix at his throat.
-"What have you done?" The question is low, dangerous, the voice of a man who believes he already knows the answer.
+The smell that emerges is immediate and overwhelming. Damp stone and old blood and the particular scent of bodies that have been too long in darkness. I see the hunter’s reaction: the flare of his nostrils, the tension that crosses his face, the way his hand moves instinctively to the crucifix at his throat.
+“What have you done?” The question is low, dangerous, the voice of a man who believes he already knows the answer.
 I do not reply. There is nothing I can say that will not make things worse. The truth will condemn me in one way; lies are impossible. Silence is my only remaining refuge.
 The hunter pulls a lantern from his pack, striking flint to steel until a small flame catches.
-"Walk," he says. "Show your deeds to me."
+“Walk,” he says. “Show your deeds to me.”
 I step into the tunnel. Whatever happens next, I have earned it.
