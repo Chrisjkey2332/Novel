@@ -13,9 +13,8 @@
     { "name": "Part Two: The Road", "chapters": "9-22" },
     { "name": "Part Three: The Holy See", "chapters": "23-30" }
   ],
-  "status": "draft",
-  "finalizedChapters": "1-11",
-  "draftChapters": "12-30",
+  "status": "revision",
+  "finalizedChapters": "1-30",
   "subtitle": "A Gothic Tale of Faith, Exile, and the Nature of Monsters",
   "currentEdition": "1.2",
   "createdUtc": "2026-02-13T00:00:00Z",
