@@ -8,13 +8,13 @@
 
 .PARAMETER ReferenceDoc
     Path to a .docx whose Word styles should be inherited. Defaults to
-    editions/1.1/chapter-01.docx.
+    editions/1.2/chapter-01.docx.
 
 .EXAMPLE
-    ./export-edition.ps1 -Edition 1.2
+    ./export-edition.ps1 -Edition 1.3
 
 .EXAMPLE
-    ./export-edition.ps1 -Edition 1.3 -ReferenceDoc editions/1.2/chapter-01.docx
+    ./export-edition.ps1 -Edition 1.4 -ReferenceDoc editions/1.3/chapter-01.docx
 
 .NOTES
     Requires pandoc. Install: winget install JohnMacFarlane.Pandoc
@@ -44,7 +44,7 @@ $projectRoot = Split-Path -Parent $scriptDir
 $srcDir      = Join-Path $projectRoot "manuscript"
 $dstDir      = Join-Path $projectRoot "editions/$Edition"
 if (-not $ReferenceDoc) {
-    $ReferenceDoc = Join-Path $projectRoot "editions/1.1/chapter-01.docx"
+    $ReferenceDoc = Join-Path $projectRoot "editions/1.2/chapter-01.docx"
 }
 
 # Refresh PATH from registry (winget installs may not be on the current session's PATH).
