@@ -81,6 +81,10 @@ All 33 chapters re-exported via `scripts/export-edition.ps1 -Edition 1.3`. Refer
 - **Ch. 29 anticipation language.** Elijah's description in Ch. 29 of the upcoming trial expects a routine single-day proceeding. The Archbishop's choice to preside disrupts this on Day 1 — which is the structural point. **No Ch. 29 edits made.** If the author wants foreknowledge of a multi-day shape, one or two sentences could be added; otherwise the surprise is intentional.
 - **Loose end #2.** Still un-addressed in the manuscript. Author decision.
 
+## Post-Expansion Edits
+
+- **2026-05-21: Ch. 11 vampire-duration memory.** Reader-feedback round closed with a three-sentence interior memory inserted between the spoken parallel-corruption arc (Ch. 11 line 53) and Elijah's stop (line 54). Concretizes the "humans were temporary" ideological line into a specific vignette — an elder at the long table who could no longer recall which of three generations of servants had been the grandfather, and Cordelia's complicity in laughing. Line 59's general confession ("I laughed at those jokes too, for longer than I want to admit") left intact; the new vignette gives it a specific anchor without restating its weight. Edition 1.3 re-exported.
+
 ---
 
 ## Recommended Next Steps
