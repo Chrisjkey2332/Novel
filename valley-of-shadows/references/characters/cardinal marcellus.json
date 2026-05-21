@@ -1,0 +1,23 @@
+{
+  "name": "Cardinal Marcellus",
+  "role": "Supporting Antagonist",
+  "description": "The Holy See's senior administrator who manages the procedural machinery of Cordelia's trial. Calibrated, courteous, smiling. He runs the contestation sessions, the supplementary depositions, the clarification proceedings. He never raises his voice. He never names what he is doing. His function is the system's function: to grind without appearing to grind.",
+  "backstory": "Long career in the Church's procedural offices. Has overseen many Compact tribunals. Understands the Archbishop's preferences and operates them with the precision of a man who has learned that the institution rewards those who never require explicit instruction.",
+  "motivation": "Institutional fidelity, expressed as procedural excellence. He believes the Church's processes are the means by which order is maintained. He does not consider himself cruel. He considers himself competent. The distinction is the corruption's most refined surface.",
+  "arc": "Introduced in Ch. 26 at the gates of the Holy See, performing welcome. Visits Cordelia in the cell during the seventeen days (Ch. 27-28) as the administrative face of the apparatus. During the trial (Ch. 30-33) he runs the procedural attack: reads the charges (Day One), administers the supplementary deposition that tries to make Elijah retract the trappers line (Ch. 31 night-cell), contests Elijah's phrasings in the clarification session (Day Three), introduces Seraine's Section Twelve petition for procedural advantage (Day Three), edits the testimony down to two sentences in the verdict-day summary (Day Four). He never visibly fails. He never visibly succeeds against the witness. His smile holds through every refusal.",
+  "traits": [
+    "calibrated warmth that is never warmth",
+    "procedurally exact",
+    "never raises his voice",
+    "smiles at moments designed to wound",
+    "preserves his own deniability",
+    "knows the Archbishop's preferences without requiring instruction"
+  ],
+  "relationships": {
+    "The Archbishop": "The senior whose preferences he serves with the precision of long practice. The Archbishop does not need to instruct him; he anticipates.",
+    "Elijah": "The witness whose testimony he is tasked with eroding. The erosion fails. The smile holds.",
+    "Cordelia": "The accused. He addresses her by function, never by name. His warmth is calibrated to the procedural step.",
+    "The Compact delegates": "Procedural peers. He coordinates the chamber's choreography around them."
+  },
+  "screenTime": "Ch. 26 (introduction), Ch. 27-28 (cell visits as institutional face), Ch. 30 (charges read, Elijah removed), Ch. 31 (records-office supplementary deposition implied), Ch. 32 (clarification session, Seraine's petition entered), Ch. 33 (edited summary)."
+}

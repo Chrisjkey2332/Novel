@@ -91,7 +91,7 @@ I nod and begin to move, guiding the children toward the road that leads away fr
 As we pass through the gates, I cast one last glance at the clearing sectioned off with stones at the village’s edge. I had noticed it when we entered, but now I understand what it contains: rows of small wooden markers, weathered by years of sun and rain, arranged in haphazard lines above mounds of disturbed earth.
 Graves. Small graves. So many of them.
 The children who did not survive the elder’s ministrations. The ones who were too weak, too sick, too damaged by years of bleeding to recover. The evidence of Gransel’s crimes, buried where their small voices could no longer cry out against what had been done to them.
-A disruption settles behind my ribs, not pain, precisely, but a density that was not there before, as though my system has taken on data it lacks the architecture to process. I think of the seven children walking beside me, think of how close they came to joining those silent rows. Think of how easily I might have been too late, might have found only corpses in that cellar instead of crying children.
+A disruption settles behind my ribs, not pain, precisely, but a density that was not there before. I think of the seven children walking beside me, think of how close they came to joining those silent rows. Think of how easily I might have been too late, might have found only corpses in that cellar instead of crying children.
 Think of the blade descending. The clean cut. The body slumping forward.
 Think of myself, kneeling before a different platform, in a different place, while a different voice pronounces a different judgment for crimes that wear the same shape as mercy.
 “You are thinking about the graves.”
@@ -140,9 +140,9 @@ And the hunter who struck the blow, who bears the burden of justice and its cons
 “Yes.” His voice is quiet, but it carries in the gathering dusk. “That is what matters.”
 We walk in silence for a time. The forest deepens around us. The children settle into the rhythm of the road, their small feet finding a cadence that requires less effort, the body’s ancient wisdom taking over where fear once drove the pace.
 “I do not know your name,” I say.
-The words surprise me. Not their content; the absence has been a fact since the forest, filed alongside his heartbeat and his stride and the particular way he holds his blade. But the asking is something else. The asking is a choice. I have catalogued a thousand humans without learning their names. Names are unnecessary data for a predator, a detail that serves no function in the assessment of threat or prey. Asking means he has become something my existing categories cannot contain.
+The words surprise me. Not their content; the absence has been a fact since the forest, filed alongside his heartbeat and his stride and the particular way he holds his blade. But the asking is something else. The asking is a choice. I have known a thousand humans without learning their names. A predator does not need names. Asking means he has become something my existing categories cannot contain.
 He glances at me. The look is brief, betraying neither surprise nor reluctance, the expression of a man for whom the giving of his name is not a significant gesture. “Elijah.”
-Elijah. The name settles into the place where “the hunter” has been, and it changes the shape of every observation I have filed since the night he appeared in my forest. The hunter was a category. Elijah is a man. I am not certain when the distinction began to matter, but it matters now, and the mattering is another thing my framework has no protocol to address.
+Elijah. The name settles into the place where “the hunter” has been, and it changes the shape of every observation I have made since the night he appeared in my forest. The hunter was a category. Elijah is a man. I am not certain when the distinction began to matter, but it matters now.
 We walk on, leaving the village behind, carrying its ghosts with us into the darkening forest. The road stretches ahead, winding toward destinations I cannot yet imagine.
 And somewhere at its end, another platform waits.
 Another judgment.

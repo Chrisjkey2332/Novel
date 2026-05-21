@@ -63,6 +63,28 @@ He rises. The dark robe shifts around him, the unfamiliar fabric settling into i
 “I know.”
 He turns. He climbs the staircase. The dark robe disappears into the dim upper reaches of the corridor, and the sound of his boots fades, and the silence returns, and the pale shaft from the window has completed its daily traverse, leaving the cell in the grey, sourceless glow of the cathedral’s holiness.
 *
+The footsteps return that evening.
+Not Elijah’s. Not the guard’s. Not the measured cadence of clerks bringing forms. A different stride. Slower. Older. The unhurried weight of a body that has not been required to hurry in many years, carrying itself toward me with the patience of a man who has all the time the institution can spend.
+The holy power in the stone responds. Not the ambient hum that has filled the cells since I arrived but a deeper shift — the stone recognizing the office that consecrated it, returning to inspect what it has been asked to hold.
+He appears at the bars.
+White and gold. The robes are not the formal vestments of the chamber; these are the working garments, looser at the shoulders, the embroidery less ornate. But the office wears him as cleanly as the more elaborate raiment, the gold thread catching the lamplight along the cuffs with the small, deliberate gleam of a metal polished by someone whose job is the polishing.
+He does not speak immediately. He looks at me.
+Not the way Elijah looks. Not the way Marcellus looked at the gates with his practiced warmth. This look has no warmth. It also has no malice. It is the look of a man considering a problem that has been brought into the room he has assigned for problems.
+“You are smaller than I imagined.”
+The voice is quieter than I expected — not the booming chamber voice the office requires, not the trained projection of a man who has spoken in cathedrals. The voice of an older man speaking to himself, the way old men do when they no longer require a listener.
+“Most of the things they bring me are smaller than I imagined.”
+He continues to look at me. I do not answer. The binding does not compel; he has not asked a direct question.
+“Tell me, vampire.” His hand rises briefly to adjust the cuff of his right sleeve. The gesture is small, habitual, the unconscious motion of a man who has worn embroidered garments long enough to manage them without thought. “Did the hunter tell you about me?”
+The crucifix pulses. The binding finds the direct question and locks around my answer before I can choose how to give it.
+“Yes.”
+“What did he tell you.”
+“That you exiled him. That you read the ledgers and chose the politics.”
+The Archbishop’s face does not move. The cuff falls back into place. His hand returns to his side.
+“He has always read the ledgers correctly. The reading was never the difficulty. The difficulty was the asking.”
+He turns from the bars. The robe moves with him. The gold thread catches the light a final time, and his boots ascend the stair with the same unhurried weight that brought him down, and the corridor returns to its grey, sourceless glow.
+I sit with the visit I had not expected, and the question I had not been prepared to answer, and the brief, specific image of an old man adjusting his sleeve.
+He came in person. He did not have to.
+*
 I sit on the cot. I press my hand against the wall. The pulse is still there, faint, steady, mine.
 They are trying to break him. The observation is clinical, precise, my assessment of a tactical campaign being waged by an opponent with vastly superior resources against a target whose only defense is the refusal to yield. The campaign is sophisticated. The campaign is patient. The campaign understands that a man like Elijah cannot be broken by force (that the frontier tested him with force and found him unbreakable) and has therefore chosen a different instrument. Not the blade but the form. Not the pyre but the schedule. Not the inquisitor’s rack but the clerk’s folder.
 Death by a thousand cuts, administered with a smile and a stamp and the unfailing courtesy of an authority that has never, in its centuries of operation, raised its voice.

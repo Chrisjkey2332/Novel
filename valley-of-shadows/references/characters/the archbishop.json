@@ -1,20 +1,24 @@
 {
   "name": "The Archbishop",
   "role": "Antagonist",
-  "description": "The corrupt Church leader who exiled Elijah and who serves as judge at Cordelia's trial. One of the wolves in sheep's clothing that Elijah identified years ago. He never appears until the final scene, but his shadow hangs over everything.",
-  "backstory": "Rose through the Church through political maneuvering and compliance with corruption. When Elijah confronted him about the vapid nature of the new leadership, the Archbishop had him exiled to the dangerous, degrading work of monster hunting.",
-  "motivation": "To punish Elijah for daring to speak truth to power. The trial of Cordelia is merely the vehicle. Every verdict will be a message: You are nothing. Your righteousness means nothing.",
-  "arc": "Absent until the final chapter. His appearance as judge is the story's final revelation: the trial was never about justice for Cordelia. It was always about destroying Elijah.",
+  "description": "The corrupt Church leader who exiled Elijah and who personally chooses to preside as judge at Cordelia's multi-day trial. One of the wolves in sheep's clothing that Elijah identified years ago. His shadow hangs over Part Three; his physical appearance lands in Ch. 30 as the trial's central reveal.",
+  "backstory": "Rose through the Church through political maneuvering and compliance with corruption. When Elijah, as a young Bishop, confronted him with frontier reports documenting institutional violence, the Archbishop had Elijah exiled to the dangerous, degrading work of monster hunting. The exiling was administrative; the destruction was meant to be slow. Twenty years later, the slow destruction's completion arrives as Cordelia's case.",
+  "motivation": "To punish Elijah for daring to speak truth to power. The trial of Cordelia is the vehicle. Every procedural step is a message: You are nothing. Your righteousness means nothing. The Archbishop's preference for procedural cruelty over overt violence reflects both his polish and the institution's mature corruption.",
+  "arc": "Absent until Ch. 30. He arrives as the surprise presider. Across the multi-day trial (Ch. 30-33) he applies the Church's procedural machinery with the patient, exquisite cruelty of an institution that knows exactly how to break the kind of man twenty years of frontier could not. He removes Elijah from the chamber after the accused testifies (Day One). He sits in silence as Elijah testifies (Day Two), letting the delegates ask only narrow procedural questions. He speaks to Elijah directly for the first time on Day Three, offering the chance to retract in his own voice - the offer the young Bishop received twenty years ago, made again. Elijah refuses. On Day Four the Archbishop delivers the verdict from the formal vestments. The verdict is not shown. In the closing image, Cordelia perceives beneath the Archbishop's certainty 'the faint, irreducible awareness of a man who has looked at what his system was built to destroy and found that it looks back.' The awareness does not change the verdict. It exists.",
   "traits": [
     "politically ruthless",
     "patient in his cruelty",
     "wears authority like armor",
     "petty beneath the grandeur",
-    "smiles when he has won"
+    "prefers procedural violence to overt",
+    "calibrated, never raising his voice",
+    "registers in the final image that the system has been seen"
   ],
   "relationships": {
-    "Elijah": "The righteous man he exiled and now intends to destroy completely.",
-    "Cordelia": "Irrelevant to him. She is merely the instrument of Elijah's punishment.",
-    "The Church": "Represents its institutional corruption made manifest."
-  }
+    "Elijah": "The righteous man he exiled twenty years ago and now intends to destroy completely. The trial is the destruction's procedural completion - or attempts to be. Elijah's testimony places into the record what the Archbishop intended forgotten, and the placement is what the Archbishop's procedural cruelty could not prevent.",
+    "Cordelia": "The instrument of Elijah's punishment. She is the chained body whose presence permits the Archbishop's pedagogy. He does not look at her until the closing image - and then only because she has raised her eyes to him.",
+    "Cardinal Marcellus": "His designated procedural operator. Marcellus runs the contestation and clarification sessions. The Archbishop preserves his own dignity by not speaking until the final day.",
+    "The Church": "Represents its institutional corruption made manifest. The Archbishop is not a deviation from the institution; he is its highest, most refined product."
+  },
+  "screenTime": "Appears across Ch. 30, 31, 32, 33 (verdict day). The Day One reveal and the Day Four verdict are the structural high points. The Day Two silence and Day Three personal address fill the procedural middle."
 }
