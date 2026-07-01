@@ -13,3 +13,6 @@ desktop.ini
 # Word processor lock files
 ~$*.docx
 ~$*.doc
+
+# Local Claude Code settings (per-machine permission grants, not shared)
+.claude/settings.local.json
