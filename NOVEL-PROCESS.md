@@ -48,17 +48,28 @@ Novel/
 ```json
 {
   "title": "Novel Title",
+  "author": "Author Name",
+  "subtitle": "Optional back-cover subtitle / tagline",
   "genre": "Genre",
-  "pov": "First Person / Third Limited / etc.",
+  "pov": "First Person (Name) / Third Limited / etc.",
   "tense": "Past / Present",
   "tone": "Description of tone",
   "audience": "adult / young adult",
-  "targetWordsPerChapter": 3500,
-  "status": "brainstorm / planning / initialDraft / revision / complete",
+  "targetWordsPerChapter": 4000,
+  "chapterCount": 33,
+  "parts": [
+    { "name": "Part One: The Valley", "chapters": "1-8" },
+    { "name": "Part Two: The Road", "chapters": "9-22" }
+  ],
+  "status": "brainstorm / planning / initialDraft / revision / complete / shelved",
+  "finalizedChapters": "1-33",
+  "currentEdition": "1.3",
   "createdUtc": "ISO date",
   "updatedUtc": "ISO date"
 }
 ```
+
+Required fields: `title`, `genre`, `pov`, `tense`, `tone`, `audience`, `status`, `createdUtc`, `updatedUtc`. The rest are optional and appear once the project has them: `author` and `subtitle` (from Concept), `targetWordsPerChapter` (from Chapter Plans), `chapterCount` / `parts` (once structure is set), and `finalizedChapters` / `currentEdition` (once drafting and editions begin). `status` is `complete` or `shelved` for inactive projects; anything else marks the project active (see [Regular Reviews](#regular-reviews)).
 
 ### Character JSON
 
@@ -102,6 +113,46 @@ Novel/
       "description": "What happens in this story beat",
       "characters": ["Character1", "Character2"],
       "tension": "What drives this beat forward"
+    }
+  ]
+}
+```
+
+### Supplementary Plot Docs (optional)
+
+Beyond the beat sheet, a project may keep focused plot docs under `references/plot/` when a particular arc or motif is load-bearing enough to track on its own. These are optional and free-form, but two patterns have proven useful:
+
+**Arc-tracker JSON** — tracks a single recurring dramatic device across chapters (e.g. a character's escalating persuasion attempts). Because execution drifts from the outline, include an `outlineDriftNote` recording where the manuscript diverged and an explicit statement of which is canonical.
+
+```json
+{
+  "topic": "The Five Attempts",
+  "description": "What this arc is and how it functions",
+  "attempts": [
+    {
+      "number": 1,
+      "chapter": 9,
+      "type": "Short label",
+      "form": "How it is rendered in prose",
+      "subtext": "What it really reveals"
+    }
+  ],
+  "thematicFunction": "What the arc accomplishes overall",
+  "outlineDriftNote": "Where the manuscript diverges from the original plan; the manuscript is canonical."
+}
+```
+
+**Thematic-throughlines JSON** — names the themes and tracks how each is expressed across the book, so setups and payoffs can be checked during read-through review.
+
+```json
+{
+  "topic": "Thematic Throughlines",
+  "themes": [
+    {
+      "name": "Theme name",
+      "description": "The question the theme explores",
+      "examples": ["Where and how it surfaces in the manuscript"],
+      "resolution": "How (or whether) the story resolves it"
     }
   ]
 }
@@ -167,9 +218,14 @@ Structure the full story arc as major beats.
 
 ### 6. Chapter Plans
 
-Detailed scene-level planning before drafting.
+Scene-level planning before drafting. Plans keep a chapter honest to the beat sheet before a word of prose is written.
 
-Each chapter file (`{novel}/manuscript/chapter-XX.md`) starts with a plan section:
+**Where the plan lives is a project choice.** Two conventions are both valid:
+
+- **External plan (default for this workshop).** The chapter's plan is held in `references/plot/` — the beat sheet's per-beat `chapters`/`description` fields plus any [supplementary plot docs](#supplementary-plot-docs-optional) — and the manuscript file contains prose only. This keeps the finished `chapter-XX.md` clean for export and is how *A Walk in the Valley of Shadows* is structured (chapter files open directly on the title and prose).
+- **Inline plan.** The chapter file opens with a `## Plan` section above a `## Draft` section, and the plan is stripped or ignored at export time.
+
+If using the inline form, this is the shape:
 
 ```markdown
 # Chapter X: Title
@@ -188,6 +244,8 @@ Each chapter file (`{novel}/manuscript/chapter-XX.md`) starts with a plan sectio
 
 (Prose goes here)
 ```
+
+Whichever form is used, every drafted chapter must be traceable to a beat: if a chapter has no home in `beat-sheet.json`, update the beat sheet (see Stage 7).
 
 ### 7. Draft
 
@@ -236,7 +294,7 @@ Reviews are how the manuscript stays consistent (no contradictions) and entertai
 
 ### Review types
 
-Each review type has a clear scope. Mix them as needed, but do not bundle them into one document; separate scopes get separate reports.
+There are three **core** review types (below) plus **focused** reports that zoom in on a single concern. Keep scopes separate by default — a continuity review and a quality review are easier to act on and archive independently. But a combined report is acceptable when a single pass genuinely covers multiple scopes at once (e.g. a pre-edition read-through that examines continuity *and* prose health together); when combining, say so in the report header and name the file for the combined scope (e.g. `continuity-quality-2026-05-18.md`).
 
 **Continuity review** — story-internal consistency.
 - Timeline coherence (does elapsed time add up across chapters?)
@@ -256,6 +314,14 @@ Each review type has a clear scope. Mix them as needed, but do not bundle them i
 - Beat-sheet adherence (does the actual story still match `plot/beat-sheet.json`?)
 - Thematic payoff (do setups close? do motifs recur as intended?)
 - Engagement: is each chapter earning its place?
+
+**Focused reports** — a narrower, named pass on one concern, drawn from the core scopes above. Use these when one dimension needs its own document. Established focused types in this workshop:
+- `pacing` — structural/scene pacing only (a slice of read-through).
+- `loose-ends` — open threads, unfired setups, unresolved promises awaiting closure.
+- `comprehensive-evaluation` — a broad craft appraisal, typically early in a project's life.
+- `uncertainty-opportunities` — places where ambiguity could be sharpened into a deliberate effect.
+
+A focused report follows the same file/lifecycle rules as a core review. Note that **change logs are not reviews** — a record of a completed creative restructure belongs in `logs/`, not `reports/` (see [Change history](#change-history)).
 
 ### Cadence
 
@@ -277,7 +343,7 @@ One review = one Markdown file in `{novel}/reports/`:
 {novel}/reports/{review-type}-{YYYY-MM-DD}.md
 ```
 
-Examples: `continuity-2026-05-18.md`, `quality-ch12-15-2026-05-18.md`, `read-through-2026-02-17.md`.
+Examples: `continuity-2026-05-18.md`, `quality-ch12-15-2026-05-18.md`, `read-through-2026-02-17.md`, `pacing-2026-05-18.md`, `loose-ends-2026-05-19.md`. `{review-type}` is a core type, a combined scope, or a focused type from the list above.
 
 Each report opens with: review type, date, scope (chapters covered), and context (what edits or events preceded it). Findings are grouped by priority:
 
@@ -298,3 +364,33 @@ Each finding is one row in a table with: chapter, line (approx.), the problemati
 - The most recent unresolved review of each type sits at the top level of `{novel}/reports/`.
 - When a review's findings have been addressed (verified in the manuscript and, ideally, in git), move the file to `{novel}/reports/Archive/`. Do not delete — old reviews are the record of how the manuscript evolved.
 - A review is never amended in place. If new issues are found during the same scope, create a new dated report.
+
+## Change History
+
+Two directories in each project capture the *narrative of the work itself*, distinct from reviews (which capture the state of the manuscript).
+
+### logs/ — change history
+
+`logs/` records completed creative changes and pipeline events — the "what did we do and why" that git commit messages summarize but do not explain at length. This is where a **change log** belongs: a report of a finished restructure, an edition build, a large merge or split. These are records of decisions already made and executed, not open findings awaiting action — which is exactly what separates them from `reports/`.
+
+- One Markdown file per significant change: `logs/{change-slug}-{YYYY-MM-DD}.md`.
+- Because these describe completed work, they are not subject to the review lifecycle (they are never "resolved" or archived).
+
+### annotations/ — inline editorial notes
+
+`annotations/` holds notes tied to specific passages that are not full reviews — an author's margin note, a flagged phrase to revisit, a "check this against the map" reminder. One file per chapter or topic (`annotations/chapter-XX.md`) keeps the manuscript prose clean while preserving the marginalia. Leave the directory empty (with a `.gitkeep`) if unused.
+
+## Editions
+
+An **edition** is a frozen, milestone snapshot of the manuscript prepared for export/distribution. Editions are numbered `{major}.{minor}` and live in `editions/{version}/`.
+
+**Contents — deliverables only.** An edition folder holds the *built output*, not the source:
+- `chapter-XX.docx` — one per chapter (built by `scripts/export-edition.ps1`).
+- `manuscript.docx` — optional single combined file with title page and TOC, for query/submission.
+- `metadata.json` — a snapshot of `manuscript/metadata.json` at build time, so the edition records its own title/status/edition tag.
+
+The Markdown source is **not** copied into the edition folder — it would duplicate `manuscript/` (100k+ words) and drift. The exact source for any edition is frozen in git at the export commit; tag it (`git tag edition-1.3`) if you want a durable pointer.
+
+**Every edition gets a changelog entry.** `editions/CHANGELOG.md` records, per edition: the date, a summary of what changed since the previous edition, and which reviews/reports (or restructures in `logs/`) drove it. This is what lets you answer "how does 1.2 differ from 1.1?" without diffing binaries.
+
+**Before snapshotting**, run a full read-through review (see [Cadence](#cadence)).
