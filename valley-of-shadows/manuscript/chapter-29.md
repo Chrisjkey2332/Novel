@@ -22,7 +22,7 @@ We sit with this. The lamp flickers. The holy power hums its constant, ambient h
 “I will be called as a witness. The hunter who brought the case. They will ask me what I observed, and I will tell them what I observed, and what I tell them will enter the record, and the record will exist regardless of what is done with it.”
 The careful, practical habit of a man preparing for a battle he expects to lose. I have watched him build this preparation on a hundred nights beside a hundred fires, the steady, methodical arrangement of available resources, each piece placed with the deliberate care of a man who believes that the arrangement itself is a form of faith, that the preparation honors the truth even when the outcome dishonors it.
 “Elijah.”
-He looks at me. Through the bars, in the lamplight, the face holds. The discipline holds. The eyes level. The architecture intact.
+He looks at me. Through the bars, in the lamplight, the face holds — the discipline, the eyes, the architecture all intact.
 “What happens to you?”
 The question changes the air between us. Not the temperature; the temperature in the cells does not change, the stone maintaining its constant, regulated chill. The quality. The dense, charged quality of what passes between two people when one of them asks a question the other did not prepare for.
 “The question is not about me,” he says. “The question is about your trial. Your defense. What you will say when the tribunal permits you to speak.”
