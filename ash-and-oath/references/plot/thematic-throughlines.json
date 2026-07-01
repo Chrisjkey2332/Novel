@@ -1,0 +1,30 @@
+{
+  "topic": "Thematic Throughlines",
+  "themes": [
+    {
+      "name": "Home as Place vs. Home as People",
+      "description": "The knight is defined by a fixed place and a fixed loyalty; the dragonkin are defined by never being allowed to stay. The love story is these two definitions of belonging colliding.",
+      "resolution": "Unresolved by design -- the tragic choice forces him to pick one definition of home and forfeit the other."
+    },
+    {
+      "name": "Oaths Make and Unmake Belonging",
+      "description": "His oath binds him to a home; the dragonkin's ancient broken oath damns them to none. A man who lives by his word falls for a people cursed for breaking theirs.",
+      "resolution": "The book weighs whether an oath is worth more than the life it costs to keep."
+    },
+    {
+      "name": "Duty Chosen vs. Duty Imposed",
+      "description": "The knight's duty is freely sworn; the dragonkin's is a curse laid upon them. The story sets a chosen chain beside an inherited one and asks whether either can be laid down.",
+      "resolution": "Tragic -- neither binding proves escapable without irrevocable loss."
+    },
+    {
+      "name": "The Stories Kingdoms Tell About the Expelled",
+      "description": "The knight is sent believing the dragonkin are a threat; captivity teaches him the gap between the crown's justification and the people themselves. Prejudice as the polite face of expulsion.",
+      "resolution": "His changed understanding cannot change the machinery already in motion."
+    },
+    {
+      "name": "Loving What You Cannot Keep",
+      "description": "A cursed, wandering people can never offer a home; honest gold funds only the next leg of an endless road. To love one of them is to love the road with no end.",
+      "resolution": "The romance's power is its impossibility; the ending is sacrifice."
+    }
+  ]
+}
