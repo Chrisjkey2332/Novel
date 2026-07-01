@@ -1,0 +1,22 @@
+{
+  "title": "A Walk in the Valley of Shadows",
+  "author": "Chris Key",
+  "genre": "Gothic Fantasy",
+  "pov": "First Person (Cordelia)",
+  "tense": "Present tense",
+  "tone": "Gothic, contemplative, clinical-becoming-emotional",
+  "audience": "adult",
+  "targetWordsPerChapter": 4000,
+  "chapterCount": 33,
+  "parts": [
+    { "name": "Part One: The Valley", "chapters": "1-8" },
+    { "name": "Part Two: The Road", "chapters": "9-22" },
+    { "name": "Part Three: The Holy See", "chapters": "23-33" }
+  ],
+  "status": "revision",
+  "finalizedChapters": "1-33",
+  "subtitle": "A Gothic Tale of Faith, Exile, and the Nature of Monsters",
+  "currentEdition": "1.3",
+  "createdUtc": "2026-02-13T00:00:00Z",
+  "updatedUtc": "2026-05-19T00:00:00Z"
+}
