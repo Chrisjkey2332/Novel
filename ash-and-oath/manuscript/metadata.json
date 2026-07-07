@@ -7,7 +7,12 @@
   "tone": "High-fantasy tragic romance — intimate and elegiac; the sweep of peoples, curses, and oaths rendered at the scale of one man's heart",
   "audience": "adult",
   "targetWordsPerChapter": 3500,
+  "chapterCount": 28,
+  "parts": [
+    { "name": "Part One: The Frontier of Marrenhold", "chapters": "1-19" },
+    { "name": "Part Two: The Choice and the Ash", "chapters": "20-28" }
+  ],
   "status": "planning",
   "createdUtc": "2026-07-01T00:00:00Z",
-  "updatedUtc": "2026-07-01T00:00:00Z"
+  "updatedUtc": "2026-07-07T00:00:00Z"
 }
