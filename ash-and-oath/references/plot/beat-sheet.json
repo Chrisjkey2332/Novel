@@ -1,6 +1,139 @@
 {
-  "premise": "In a kingdom that has finally resolved to be rid of them, a knight bound in body and honor to his king is sent to move the dragonkin along -- a nomadic people cursed never to hold a home, damned for an ancient broken oath. Their leader agrees to go, but only if the crown funds the tribe's long road to a new land; and because trust between the peoples runs thin, the knight stays behind as a living guarantor while his squire rides for the promised resources. In the weeks of waiting he comes to know the dragonkin not as the threat he was told of but as a people who can never stop moving -- and he falls in love with one of them. When the caravan returns at last, honest payment in full, it does not free him: it forces him to choose between the oath that defines him and the woman whose people can never settle. He can keep his home or follow hers. He cannot do both, and whichever he keeps, the other is lost for good.",
-  "hook": "A knight sent to drive out a cursed, homeless people stays behind as the hostage that seals their departure -- and falls for the very people he is expelling. When the ransom he has awaited finally arrives, it does not set him free. It makes him choose which life to lose.",
-  "structureSketch": "Part 1: the standoff and the wait -- captivity that becomes belonging; he comes to know the dragonkin and falls in love -- culminating in a marriage rite in which, lacking clergy, he calls the triune god himself: it manifests as opalescent light, questions the bride through its three aspects, and soul-bonds the couple through a trial that remakes Tomas's body and, via the slain progenitor's spirit, damages the bond -- leaving two divine partings, a blessing on the couple and a warning that a disaster is coming (which the hyenadin attack fulfills). Midpoint: the caravan returns with the honest payment -- and with Wat bearing a summons that the two empires are sliding toward war and the buffer-kingdom needs its guarantor home, so the duty side of Tomas's choice now carries his whole people's survival, not merely his oath. Part 2: the road and the choice -- ending in tragic sacrifice, one life kept and the other lost irrevocably. Known climax beat: near the end a rival beastkin tribe (the hyenadin) attacks the camp; Kaelen breaks a century of restraint, looses catastrophic fire in their defense, and the curse withers him to death on blackened earth -- the banked fire spent once, spending him. Leaning ending (confirm at outline): Tomas keeps the oath and returns to Marrenhold hollowed, Soraya lost; King Rowan, who summoned him, reads in the hollowed man what his summons cost and grieves it too late -- a tragedy in which even the worthy father grieves.",
-  "beats": []
+  "premise": "In a kingdom that has finally resolved to be rid of them, a knight bound in body and honor to his king is sent to move the dragonkin along -- a nomadic people cursed never to hold a home, damned for the war their kind once waged upon their own maker. Their leader agrees to go, but only if the crown funds the tribe's long road to a new land; and because trust between the peoples runs thin, the knight stays behind as a living guarantor while his squire rides for the promised resources. In the weeks of waiting he does not merely fall in love -- he loses himself among the dragonkin, becoming part of the fold, and is soul-bonded to one of them by a rite the human god itself comes to bless: the first home, people, and family an orphaned nobody has ever known. Then the caravan returns, honest payment in full, and with it a summons that calls him home to a gathering war. He must choose between the oath that made him and the home he has found. He chooses the oath. And on the road back he sees the smoke rising behind him. The tragedy is not that he cannot have both -- it is that he chooses, and turns back too late to take it back.",
+  "hook": "A knight sent to drive out a cursed, homeless people stays behind as the hostage that seals their departure -- and loses himself among the very people he was sent to expel. When the ransom he has awaited finally arrives, it does not set him free. It makes him choose which life to lose.",
+  "structureSketch": "Part 1: the standoff and the wait -- captivity that becomes belonging, until Tomas, an orphaned nobody, has for the first time a home, a people, and a wife. It culminates in a marriage rite in which, lacking clergy, he calls the triune god himself: it manifests as opalescent light, questions the bride through its three aspects, blesses the couple and warns a disaster is coming, and soul-bonds them through a trial that remakes Tomas's body and, via the slain progenitor's spirit, damages the bond. Part 2: the caravan returns with the honest payment and a war-summons calling the guarantor home. Soraya breaks a lifetime's discipline and asks him to stay; he refuses and chooses duty, leaving the mesa. On the road the bond tears -- she is dying -- and smoke rises behind him; he abandons the return, and in forsaking the summons breaks his faith-oath and is unmade. He races back too late: the hyenadin have slaughtered the fold. He reads the last stand in the aftermath -- scorched attackers, Kaelen withered on black earth, his people dead -- and finds Soraya last. Forsworn, unmade, and maimed by the severed bond, he is left among the ash with his wife in his arms. Ends at the mesa; no return to Marrenhold; Rowan's reckoning implied.",
+  "sevenPointStructure": {
+    "model": "Dan Wells's Seven-Point Story Structure, tracking Tomas as the structural protagonist. Soraya runs a mirroring parallel (Hook: wants nothing she cannot carry; then breaks that discipline to ask him to stay -- and is destroyed).",
+    "mirror": "Hook and Resolution invert brutally. Tomas begins homeless and heart-buried, defined wholly by the oath, believing love denied him -- he IS Ser Warrant and nothing else. He ends having found a home, a people, and a wife, having chosen the oath over them and refused her plea -- then, turning back a heartbeat too late, forsworn and unmade, stripped even of the oath-self, maimed, alone among his slaughtered fold. He begins as the oath with nothing else; he ends with everything he gained destroyed and the oath-self broken too: nobody-Tomas, with nothing at all.",
+    "points": {
+      "Hook": "Beats 1-2 (The Charge, The Standoff)",
+      "Plot Turn 1": "Beat 3 (The Bargain) -- he stays as guarantor; the doorway into the story",
+      "Pinch Point 1": "Beat 6 (The Blaze) -- the forbidden soul-mate revelation applies first real pressure (beats 4-5 rise to it)",
+      "Midpoint": "Beats 7-8 (The Bonding, The Trial and the Voice) -- reaction becomes action: he chooses her, remakes himself, and becomes wholly of the fold",
+      "Pinch Point 2": "Beat 11 (She Asks Him to Stay) -- the fatal refusal: she breaks her discipline to ask, and he chooses the oath",
+      "Plot Turn 2": "Beat 12 (The Smoke) -- the futile reversal: the bond tears, he abandons the summons and is unmade, racing back too late",
+      "Resolution": "Beat 13 (The Mesa) -- total loss discovered: the fold slaughtered, Soraya last, Tomas forsworn, unmade, and maimed among the ash"
+    },
+    "notes": "A tragic seven-point in which the protagonist's virtue -- fidelity to the oath -- is the fatal flaw. Pinch pressure comes from circumstance (oath, curse, war, the honest bargain), not a villain. The Plot Turn 2 is a FUTILE reversal (he turns back too late), and the Resolution is total loss discovered, not a confrontation won. No Marrenhold coda: the book ends at the mesa; Rowan's reckoning is implied off-page. The Midpoint is the soul-bond (his active commitment), not the Caravan Return."
+  },
+  "beats": [
+    {
+      "order": 1,
+      "part": "One -- The Frontier of Marrenhold",
+      "sevenPoint": "Hook",
+      "title": "The Charge",
+      "description": "In Marrenhold, King Rowan lays the charge on Tomas -- his guarantor-knight, the bonded boy he once freed and raised -- to move the dragonkin off the kingdom's blighting frontier before the Ashing eats more of a realm that can spare no land. Establish the oath as real faith-magic, Marrenhold's fragility between two empires, and the maker-father who made Tomas from nothing. Tomas rides out with his young squire, Wat -- the only soul who knows his true name.",
+      "characters": ["Tomas", "King Rowan", "Wat"],
+      "tension": "A worthy duty from a beloved king: the oath given lovingly, so it can never be lightly broken."
+    },
+    {
+      "order": 2,
+      "part": "One",
+      "sevenPoint": "Hook (cont.)",
+      "title": "The Standoff",
+      "description": "Tomas reaches the dragonkin camp on the dying frontier -- a mesa above the blighted land. He meets Kaelen, the weary fire-born patriarch, and Soraya, the cold earth-born heir at her father's side. He came expecting monsters; he finds a grieving, disciplined people who may only defend, and a curse visibly turning the ground to ash beneath them.",
+      "characters": ["Tomas", "Kaelen", "Soraya", "Wat"],
+      "tension": "The gap between the threat he was sent to expel and the people he actually finds."
+    },
+    {
+      "order": 3,
+      "part": "One",
+      "sevenPoint": "Plot Turn 1",
+      "title": "The Bargain",
+      "description": "Kaelen will lead his people away -- but only if Marrenhold funds their long road to the next place. Tomas's party has no such resources on hand. Two honest men strike a deal on trust: Tomas offers his own body as guarantor and surety of the crown's word, and sends Wat riding home for the price. The waiting begins, and with it the clock.",
+      "characters": ["Tomas", "Kaelen", "Wat"],
+      "tension": "A bargain sealed with a man's body -- the guarantor is now a hostage to his own honesty."
+    },
+    {
+      "order": 4,
+      "part": "One",
+      "sevenPoint": "Rising: PT1 -> Pinch 1",
+      "title": "The Keeper",
+      "description": "As heir, watching the human collateral falls to Soraya. Cold, correct, and wary, she keeps him -- and in the keeping he learns the truth of the dragonkin: the defense-only law, the wings that may only shield, the doomed green she can wake and never keep. The threat dissolves into a people; the keeper and the kept begin, unwillingly, to see each other.",
+      "characters": ["Soraya", "Tomas"],
+      "tension": "Forced proximity between the expeller and the expelled, each guarding a wound."
+    },
+    {
+      "order": 5,
+      "part": "One",
+      "sevenPoint": "Rising: PT1 -> Pinch 1",
+      "title": "The Thaw",
+      "description": "Over the waiting weeks the guard drops by degrees. Soraya's wound surfaces -- the home she once stayed for and Ashed, the echo of her mother's death; Tomas's buried heart stirs against his will. And something larger takes root: an orphaned nobody who has never had a people begins to find among the dragonkin the first belonging of his life -- a fold, a fire, a place. Kaelen watches, duty-first and afraid, the guilt he carries a silent weight between father and daughter.",
+      "characters": ["Soraya", "Tomas", "Kaelen"],
+      "tension": "Two disciplined hearts thawing toward the one thing both swore off -- and a homeless man finding a home."
+    },
+    {
+      "order": 6,
+      "part": "One",
+      "sevenPoint": "Pinch Point 1",
+      "title": "The Blaze",
+      "description": "Whatever grows between them, Tomas will not name it -- until Soraya clasps his bond-stone with him and it blazes: his own god naming her his true soul-mate, the one his faith's law forbids. Shaken past hiding, he gives her the thing he gives no one -- his name, Tomas. The love is now undeniable and impossible at once.",
+      "characters": ["Tomas", "Soraya"],
+      "tension": "The god that denied him love once now names it -- and names it forbidden."
+    },
+    {
+      "order": 7,
+      "part": "One",
+      "sevenPoint": "Midpoint (approach)",
+      "title": "The Bonding",
+      "description": "Against all sense and every duty, they choose the marriage rite. Kaelen, who mastered his own heart for the tribe, dreads what his daughter is walking into; the elders are uneasy at a human god's rite worked among the cursed. But the stone has spoken, and neither will turn back.",
+      "characters": ["Tomas", "Soraya", "Kaelen"],
+      "tension": "Choosing a sacred bond that every worldly force forbids."
+    },
+    {
+      "order": 8,
+      "part": "One (climax)",
+      "sevenPoint": "Midpoint",
+      "title": "The Trial and the Voice",
+      "description": "With no clergy, Tomas calls the triune god himself -- and it comes, opalescent and ever-shifting. On the metaphysical plane he endures the trial: his body remade in agony, Ser Warrant shed until only nobody-Tomas remains, and at the last a glimpse of the slain progenitor's spirit as the curse assaults him, damaging the bond. On the physical plane the god acknowledges the dragonkin's curse, questions Soraya through Father, Mother, and Child, marries them, and departs leaving two words: a disaster is coming, and a blessing on the couple and the hardships they will face. He emerges bonded, transformed -- and now wholly of the fold: a man who, for the first time, has a home to lose.",
+      "characters": ["Tomas", "Soraya", "Kaelen", "the triune god"],
+      "tension": "A union blessed by a god and shadowed by prophecy, bought with a body remade and a bond already wounded."
+    },
+    {
+      "order": 9,
+      "part": "Two -- The Choice and the Ash (pivot)",
+      "sevenPoint": "Rising: Midpoint -> Pinch 2",
+      "title": "The Caravan Returns",
+      "description": "Wat returns with the crown's resources -- the deal fulfilled, Tomas free at last to go home -- and with a summons: the two empires are sliding toward war, and Marrenhold needs its guarantors. The payment that should end the standoff detonates the choice instead, landing on a man who has just found the only home he has ever known. Wat, unable to see his hero changed, clings to 'we can go home now, Ser.'",
+      "characters": ["Wat", "Tomas", "Soraya", "Kaelen"],
+      "tension": "The good news is the catastrophe: freedom to leave becomes the demand to choose -- now against a home he never had before."
+    },
+    {
+      "order": 10,
+      "part": "Two",
+      "sevenPoint": "Rising: Midpoint -> Pinch 2",
+      "title": "The Weight of the Choice",
+      "description": "The bindings close in. The oath, Rowan, and Marrenhold's survival pull one way; the fold, his wife, and the first belonging he has ever known pull the other; Wat's innocent devotion pulls homeward. Kaelen, who once mastered his own fire for the tribe, cannot tell his daughter what to do. And at the edges of the mesa, unseen, the hyenadin are already gathering -- scavengers scenting a defense-bound people who cannot strike back. The god's warned disaster draws near.",
+      "characters": ["Tomas", "Soraya", "Kaelen", "Wat", "the hyenadin"],
+      "tension": "Everything he owes against the only belonging he has ever known -- while the foretold disaster circles."
+    },
+    {
+      "order": 11,
+      "part": "Two",
+      "sevenPoint": "Pinch Point 2",
+      "title": "She Asks Him to Stay",
+      "description": "Soraya, who has spent her life wanting nothing she cannot carry, breaks the discipline of a lifetime and asks him to stay. It is the most she has ever risked. And Tomas -- the man whose whole self is his kept word -- refuses her, and chooses the oath. He leaves the mesa with Wat, and his refusal is the last thing to pass between them.",
+      "characters": ["Soraya", "Tomas", "Wat"],
+      "tension": "The one who never asks for anything asks -- and is refused by the one virtue he cannot lay down."
+    },
+    {
+      "order": 12,
+      "part": "Two",
+      "sevenPoint": "Plot Turn 2",
+      "title": "The Smoke",
+      "description": "On the road back the bond tears -- Tomas feels Soraya die, a wound opening in his own soul -- and smoke climbs from the mesa behind him. His heart wins at last: he abandons the return and turns back. But in forsaking the summons he breaks the faith-oath, and it unmakes him -- the magic stripping the knighthood, the name, the standing it gave, until only nobody-Tomas remains, racing toward a fire he cannot reach in time.",
+      "characters": ["Tomas", "Wat"],
+      "tension": "His heart wins a heartbeat too late -- and the winning unmakes him."
+    },
+    {
+      "order": 13,
+      "part": "Two (resolution)",
+      "sevenPoint": "Resolution",
+      "title": "The Mesa",
+      "description": "He finds the fold slaughtered by the hyenadin, and reads the last stand in the aftermath: scorched attackers strewn across the camp, Kaelen withered on a small patch of black earth -- the fire he swallowed for a hundred years spent at last, and the curse's full price taken -- and his people dead among the ash. Soraya is the last body he finds. The severed bond does not kill him; it leaves him catastrophically, permanently maimed. Forsworn, unmade, and broken, Tomas is left among the ash with his wife in his arms -- love, people, oath, and self all lost, his reversal come too late. Ash, and oath.",
+      "characters": ["Tomas", "Soraya (dead)", "Kaelen (dead)", "the hyenadin (dead)"],
+      "tension": "Every door he might have kept, shut at once -- and the reversal that would have saved him arrives after the end."
+    }
+  ],
+  "openThreads": "Choices baked in: Tomas becomes wholly of the fold (finds his first home) before the choice; Soraya breaks her discipline to ask him to stay and he refuses (their last exchange); the hyenadin are seeded circling the mesa during the stay and fulfill the god's warning by falling on the camp in Tomas's absence; the ending is the mesa (no Marrenhold coda; Rowan's reckoning implied). Still open: Wat's fate when Tomas turns back (ride on to Marrenhold with the news, or follow?); the exact manifestation of Tomas's unmaking and of the severed-bond wound; whether the hyenadin menace is foreshadowed enough earlier in the stay; the two empires and mountain hermit-folk still unnamed; Kaelen-guilt reckoning between him and Soraya now has no death-scene together (he dies in the attack while Tomas is gone) -- decide where their reconciliation lands, if anywhere. Beats span multiple chapters; chapter-level breakdown comes at the Chapter Plans stage."
 }
