@@ -12,7 +12,8 @@
     { "name": "Part One: The Frontier of Marrenhold", "chapters": "1-19" },
     { "name": "Part Two: The Choice and the Ash", "chapters": "20-28" }
   ],
-  "status": "planning",
+  "status": "initialDraft",
+  "finalizedChapters": "",
   "createdUtc": "2026-07-01T00:00:00Z",
   "updatedUtc": "2026-07-07T00:00:00Z"
 }

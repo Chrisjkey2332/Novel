@@ -1,6 +1,6 @@
 # Ash and Oath — Chapter Plans, Part One: The Frontier of Marrenhold
 
-Detailed scene-level plans for chapters 1–19 (Part One), following the beat sheet and chapter map. Dual POV (Tomas / Soraya), assigned organically. Part One is the long slow burn: Tomas is sent to expel the dragonkin, becomes a guarantor among them, and — against every duty — loses himself in the fold and is soul-bonded to Soraya, ending on the god-blessed, disaster-shadowed rite. Target ~3,500–4,000 words/chapter.
+Detailed scene-level plans for chapters 1–19 (Part One), following the beat sheet and chapter map. Dual POV (Tomas / Soraya), assigned organically. Part One is the long slow burn: Tomas is sent to expel the Emberkin, becomes a guarantor among them, and — against every duty — loses himself in the fold and is soul-bonded to Soraya, ending on the god-blessed, disaster-shadowed rite. Target ~3,500–4,000 words/chapter.
 
 ---
 
@@ -9,17 +9,17 @@ Detailed scene-level plans for chapters 1–19 (Part One), following the beat sh
 - **Beat**: 1 (Hook)
 - **Goal**: Establish Ser Warrant, the oath as real faith-magic, Marrenhold's fragility between two empires, and Rowan the maker-father. Deliver the charge; set out.
 - **Scenes**:
-  1. Marrenhold, an audience with King Rowan — the dragonkin blighting the frontier must be moved; the guarantor-knight whose faith-sealed word is the crown's bond is the one trusted to do it. Show the affection between king and knight (the maker-father who lifted a bonded boy), and the realm's precariousness between the empires.
+  1. Marrenhold, an audience with King Rowan — the Emberkin blighting the frontier must be moved; the guarantor-knight whose faith-sealed word is the crown's bond is the one trusted to do it. Show the affection between king and knight (the maker-father who lifted a bonded boy), and the realm's precariousness between the empires.
   2. Departure preparations with Wat — his hero-worship; the fact that he alone knows Tomas's true name; Tomas's guardedness, the self hidden behind the title.
-  3. The ride toward the frontier — the land, the approach, the first creeping signs of the Ashing as they near dragonkin country.
-- **Ends with**: The mesa and the dragonkin camp coming into view across the dying land — the charge begins.
+  3. The ride toward the frontier — the land, the approach, the first creeping signs of the Ashing as they near Emberkin country.
+- **Ends with**: The mesa and the Emberkin camp coming into view across the dying land — the charge begins.
 
 ## Chapter 2: The Standoff
 - **POV**: Tomas
 - **Beat**: 2 (Hook cont.)
 - **Goal**: Arrival; first meeting with Kaelen and Soraya; the "monsters" begin to read as a grieving people.
 - **Scenes**:
-  1. The mesa up close — the desertifying land, the caravan-camp; the dragonkin as expected (scaled, winged, uncanny) against the reality (weary, disciplined, doomed).
+  1. The mesa up close — the desertifying land, the caravan-camp; the Emberkin as expected (scaled, winged, uncanny) against the reality (weary, disciplined, doomed).
   2. First parley — Kaelen the weary fire-patriarch and Soraya the cold heir; Tomas delivers the crown's demand that they move on; wary tension.
   3. A telling detail that undercuts the story he was told — the defense-only bearing, the exhaustion, a child, the blight they are plainly victims of.
 - **Ends with**: The demand made and unresolved; Kaelen signals there will be a condition — this won't be a simple eviction.
@@ -32,7 +32,7 @@ Detailed scene-level plans for chapters 1–19 (Part One), following the beat sh
   1. Soraya's read of the human's arrival — wariness, resentment; the crown's face come to move them along again.
   2. The fold's inner life — introduce Vesh (warm elder), Sela (the feared spirit-child), Ravan (fire-born, watching Soraya); the daily grief of a cursed people; the Ashing at their feet.
   3. Kaelen and Soraya confer — the condition they'll set (resources to move on); her duty as heir; her private discipline of wanting nothing she cannot carry.
-- **Ends with**: The dragonkin resolve to make the bargain — and Soraya, against her will, registers that this human is not quite what she expected.
+- **Ends with**: The Emberkin resolve to make the bargain — and Soraya, against her will, registers that this human is not quite what she expected.
 
 ## Chapter 4: The Bargain
 - **POV**: Tomas
@@ -159,7 +159,7 @@ Detailed scene-level plans for chapters 1–19 (Part One), following the beat sh
 - **Beat**: 6
 - **Goal**: Her side — terror and wonder; she knows what having him would cost him; the fold learns.
 - **Scenes**:
-  1. Soraya reeling — the human god's magic naming her a human's fated one; wonder and dread; what it means for a dragonkin.
+  1. Soraya reeling — the human god's magic naming her a human's fated one; wonder and dread; what it means for an Emberkin.
   2. Her wound speaks — she knows, better than anyone, that to have him is to destroy him; her fear crystallizes.
   3. The fold learns — Kaelen's dread, Ravan's bitterness, Vesh's tenderness; the community's response to the impossible pairing.
 - **Ends with**: Soraya, terrified of what loving him will cost him and unable to stop — the question of the bonding raised.
@@ -189,7 +189,7 @@ Detailed scene-level plans for chapters 1–19 (Part One), following the beat sh
 - **Beat**: 8 (Midpoint / Part One climax)
 - **Goal**: The god manifests; questions the bride; blesses and warns; they emerge bonded, wholly of the fold.
 - **Scenes**:
-  1. The god manifests — opalescent, ever-shifting light; it acknowledges the dragonkin and their curse (a foreign god speaking to the damned — awe and unease).
+  1. The god manifests — opalescent, ever-shifting light; it acknowledges the Emberkin and their curse (a foreign god speaking to the damned — awe and unease).
   2. The rite and the questioning — the three aspects, Father, Mother, and Child, each question Soraya, truthfully answered; the marriage rites performed; the bond takes.
   3. The two partings — the god departs leaving a warning (a disaster is coming) and a blessing (on the couple and their hardships); the fold hears; dread and grace together.
 - **Ends with**: Bonded, transformed, wholly of the fold — the height of Part One, the god's warning hanging over the joy. (Turn into Part Two: the caravan and the summons.)

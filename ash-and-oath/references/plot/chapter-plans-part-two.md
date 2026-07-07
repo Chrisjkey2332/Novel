@@ -10,7 +10,7 @@ Detailed scene-level plans for chapters 20–28 (Part Two), following the beat s
 - **Goal**: Wat returns with resources and the war-summons; the deal is fulfilled; the choice detonates on a bonded man who has found his home.
 - **Scenes**:
   1. Wat rides in with the caravan — reunion; the price delivered, the bargain fulfilled, Tomas free to go. Wat's joy, and his willful blindness to his changed hero: "we can go home now, Ser."
-  2. The summons — the crown's word: the Beastkin and Geistkin empires slide toward war, and Marrenhold needs its guarantors home. The duty side now carries a whole kingdom's survival.
+  2. The summons — the crown's word: the Vharr and Niven empires slide toward war, and Marrenhold needs its guarantors home. The duty side now carries a whole kingdom's survival.
   3. The detonation — Tomas, bonded, of the fold, married to Soraya, realizes the payment does not free him: it forces the choice. The fold begins to ready itself to move.
 - **Ends with**: The choice made real and inescapable — the home he found against the summons he owes.
 
