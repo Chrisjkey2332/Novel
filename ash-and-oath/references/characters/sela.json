@@ -1,0 +1,16 @@
+{
+  "name": "Sela",
+  "role": "Secondary -- spirit-born child of the fold",
+  "description": "A dragonkin child, spirit-born -- her scales the rare silver of her element, unusually bright for one so young, marking a strong and uncanny gift. Small, solemn, watchful; treasured and a little feared by the fold, who prize a spirit-born and fear what she sees. Set apart by her gift, and drawn to the human who is also set apart.",
+  "abilities": "The rare spirit gifts -- foresight (fragmentary, half-understood glimpses of what is coming) and mending (the healing of hurts). Her foresight is a child's: unbidden and frightening. She feels the coming disaster long before words could name it.",
+  "backstory": "Born spirit-born -- exceedingly rare -- into a wandering, cursed people; her gift set her apart from the other children and unsettled even the elders. She is sheltered and raised by the warm elder Vesh. When the human guarantor comes to live among the fold, himself an outsider and set apart, Sela is drawn to him and he to her: the orphan-knight becomes, quietly, the father he never was, and she a daughter he can never keep.",
+  "motivation": "WANT: simply to be near those who do not fear her -- Vesh, and the human who does not flinch from her sight. FUNCTION: to give the fold's warmth a child's face, to foreshadow the disaster through her uncanny gift, and to make the massacre unbearable.",
+  "arc": "The spirit-child who sees the disaster coming and cannot make anyone understand in time -- or cannot herself grasp what she foresees. She may give Tomas or Soraya a fragment of prophecy that only makes sense too late. Her death in the Fall is among the cruelest of the fold's losses: a child who could see the future and still could not escape it, and the daughter Tomas loved and left behind.",
+  "traits": ["solemn", "watchful", "uncanny", "gentle", "lonely", "wise beyond her years and yet a child"],
+  "relationships": {
+    "Tomas": "The human who does not fear her; she becomes the child he loves, the daughter he never had -- and loses.",
+    "Vesh": "The warm elder who raised and shelters her.",
+    "The fold": "They treasure her gift and fear her sight; she is set apart among her own."
+  },
+  "openQuestions": "Her exact age; the content of her foresight (a specific fragment she speaks aloud?); whether her mending gift matters at the Fall; her parents (proposed: lost, and she is raised by Vesh and the fold)."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Ravan",
+  "role": "Secondary -- fire-born of the fold; Soraya's former betrothed",
+  "description": "A fire-born dragonkin warrior of the fold, of Soraya's generation -- brilliant crimson-and-gold scales, strong and quick-tempered. Once Soraya's betrothed, and still, in his heart, unwilling to let that go. Proud, passionate, and bitter where the human is concerned.",
+  "abilities": "Fire -- defense-only under the curse (walls of flame, fireproof skin, warmth against the cold), and, being fire-born, the element most tempted to aggression and thus most endangered by it.",
+  "backstory": "Ravan and Soraya were betrothed young -- a match the fold expected and Kaelen favored: the heir and a strong fire-born, two pillars of the tribe's future. But after the home she stayed for and Ashed, Soraya retreated into the discipline of wanting nothing she cannot carry, and the betrothal withered. Ravan never fully let it go. When the human guarantor arrives and, impossibly, reawakens in Soraya everything Ravan never could, it curdles into a bitter, jealous resentment.",
+  "motivation": "WANT: Soraya, and the future they were promised; the fold's respect; the human gone. FUNCTION: to be the internal friction of Part One -- the fold's distrust of the human given a face and a wounded heart.",
+  "arc": "From jealous rival toward -- perhaps -- a grudging acceptance, or unbroken bitterness; either way, at the Fall he fights and dies for the fold he loves, whatever he felt for the human who took his place. A fire-born, he is most tempted to spend himself in aggression against the hyenadin, damning himself faster to buy his people a moment.",
+  "traits": ["proud", "passionate", "quick-tempered", "loyal to the fold", "jealous", "wounded", "brave"],
+  "relationships": {
+    "Soraya": "His former betrothed; the future he cannot release. Watching her come alive for a human is his private torment.",
+    "Tomas": "The interloper who took what Ravan believed was his -- resentment and rivalry, and perhaps a hard-won truce before the end.",
+    "Kaelen": "Once favored the match; a complicated deference to the leader who might have been his father-in-law.",
+    "The fold": "His people, whom he will die defending."
+  },
+  "openQuestions": "Whether he reaches a truce with Tomas or dies bitter; his exact role at the Fall (spends his fire aggressively? shields?); how far his jealousy drives events in Part One."
+}

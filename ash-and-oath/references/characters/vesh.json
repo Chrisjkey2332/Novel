@@ -1,0 +1,17 @@
+{
+  "name": "Vesh",
+  "role": "Secondary -- water-born elder of the fold",
+  "description": "A water-born elder of the fold -- cool blue scales gone soft-hued with age; calm, deep, and warm. A grandmother to the whole tribe, the fold's gentle heart, who has buried more than she says and loves more than she shows.",
+  "abilities": "Water -- defense-only (mist, ice, walls of water, the quenching of hurts); after a long life, more comfort than force. She tends the sick and the young.",
+  "backstory": "One of the fold's eldest after Kaelen, and the keeper of its warmth if not its war. She has raised the tribe's children through the long wandering -- the spirit-born Sela among them, sheltering the uncanny child the others fear. When the human guarantor comes, wary and alone, it is Vesh who first feeds him by the fire and treats him as a guest rather than a hostage, easing his way into the fold.",
+  "motivation": "WANT: to keep her people warm and whole on the cold road; to shelter the young and the strange. FUNCTION: to be the door through which Tomas enters the fold, and the warmth whose loss makes the massacre ache.",
+  "arc": "The warm elder who makes a home for a homeless man and a feared child alike -- and whose fireside belonging is exactly what the Fall destroys. Her death, alongside Sela's, is the human face of everything Tomas loses.",
+  "traits": ["warm", "calm", "deep", "nurturing", "wise", "quietly grieving", "welcoming"],
+  "relationships": {
+    "Tomas": "The first of the fold to treat him as kin, not collateral; she opens the door to his belonging.",
+    "Sela": "The spirit-born child she shelters and raises.",
+    "Kaelen": "An old peer -- the warmth to his banked fire.",
+    "The fold": "Their grandmother and gentle heart."
+  },
+  "openQuestions": "Her exact age; whether she survives the Fall (proposed: no -- her loss is part of the massacre's weight) or is spared to grieve."
+}
