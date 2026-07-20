@@ -7,6 +7,7 @@ The locked voice specification for the manuscript. *Ash and Oath* is dual-POV, a
 - **POV assignment:** by chapter, per the chapter map (organic, weighted; ~15 Tomas / 13 Soraya).
 - **Baseline → peaks:** hold each voice at its normal register through ordinary scenes, and **deepen toward raw immediacy at the emotional peaks** (the Blaze, the bonding/trial, the refusal, the Fall, the mesa) — closer distance, barer sentences.
 - **World diction:** elevated-but-plain and faintly timeless; no modern anachronisms. Use the people-names **the Emberkin, the Vharr, the Niven**; the tribe is the fold.
+- **Punctuation — NO em-dashes.** Do not use the em-dash ("—") or the spaced hyphen (" - ") for parentheticals, appositives, summaries, or interruptions. Restructure instead: split into separate sentences (period), use a comma, a colon (for a summary or reveal), a semicolon (for two linked clauses), or parentheses (used sparingly). For interrupted or trailing dialogue, end the line or use an ellipsis rather than a dash. This applies to the whole manuscript and all future drafting.
 - **The core contrast:** **Tomas hides; Soraya carries.** His voice is *mind* — reason, control, accountability. Hers is *body and heart* — feeling, intuition, surrender.
 
 ---
